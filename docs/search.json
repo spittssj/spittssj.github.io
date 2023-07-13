@@ -1,16 +1,37 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
     "section": "",
-    "text": "About this site"
+    "text": "PhD in Applied Economics (expected 2025)\nUniversity of Minnesota\nMaster of Science in International and Development Economics (2018)\nUniversity of San Francisco\nMaster of Theology (2018) and Master of Divinity (2017)\nJesuit School of Theology of Santa Clara University\nMaster of Arts in Philosophy (2011)\nLoyola University Chicago\nStudy in Kyoto Program (2004-5)\nRitsumeikan University (Kyoto, Japan)\nBachelor of Science in Computer Science (2006)\nBachelor of Arts in Mathematics (2006)\nSumma cum laude\nMinor: Japanese\nUniversity of Oklahoma"
+  },
+  {
+    "objectID": "fieldwork.html",
+    "href": "fieldwork.html",
+    "title": "Fieldwork",
+    "section": "",
+    "text": "Director of Religious Formation (2018-20)\nSacred Heart Church\nEl Paso TX\nRCIA Catechist, Deacon, Priest (2015-18)\nSt. Agnes Catholic Church\nSan Francisco CA"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "I have extensive teaching experience at all levels. I taught high school students math, undergraduates and graduate students economics, and adult religious education.\nAdjunct Instructor (2023-24)\nDepartment of Applied Economics, University of Minnesota\nAPEC 1201: Applications of Excel in Economics and Management - Fall 2023\nAPEC 3071: Microeconomics of International Development - Spring 2024\nTeaching Assistant (2021-23)\nDepartment of Applied Economics, University of Minnesota\nEconometric Analysis (I/II) - PhD Level - Fall 2021, Fall 2022\nEconometric Analysis (III/IV) - PhD Level - Spring 2023\nPrinciples of Microeconomics - Undergraduate - Spring 2022\nAdjunct Instructor (2015-16)\nSt. Ignatius Institute, University of San Francisco\nIntimacy in a Virtual World (Spring 2015)\nScience and Religion (Fall 2015)\nEpic Stories (Spring 2016)\nFull-time Faculty (2011-14)\nDepartment of Mathematics, Jesuit College Prep of Dallas\nAlgebra I\nAlgebra II\nHonors Geometry\nHonors Precalculus"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "spittssj.github.io",
+    "title": "Stephen Pitts SJ",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Welcome\nWelcome to my website. I am a PhD candidate in the Department of Applied Economics at the University of Minnesota. My advisor is Marc Bellemare. My fields are labor economics and agricultural development and I have a PhD minor in GIScience."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "In addition to being an economist, I am a Roman Catholic priest and a member of the US Central and Southern Province of the Society of Jesus, an international religious order also known as the Jesuits.\nI decided to study economics in order to use my undergraduate degrees in mathematics and computer science from the University of Oklahoma, in order to understand more deeply the reasons why many Mexicans and other Latin Americans migrate to the United States. In my second year in the Jesuits, I worked in the Casa de los Pobres, a Franciscan soup kitchen in Tijuana, Mexico in spring 2007. The experience on the border left a deep impact on me.\nFrom 2015-18, during my theology studies, I completed concurrently a Master’s in International and Development Economics at the University of San Francisco. I did fieldwork in Chiapas, Mexico with Capeltic, a coffee cooperative sponsored by the Mexican Jesuits.\nAs a newly ordained priest, I worked four blocks from the US/Mexico border at Sacred Heart Catholic Church from 2018-2020. This second experience on the border confirmed my desire to study economics in order to come up with better public policy, both in sending communities like those in Chiapas and receiving communities like in El Paso."
   }
 ]

@@ -1,7 +1,27 @@
 ---
-title: "spittssj.github.io"
+title: "Stephen Pitts SJ"
+image: images/elpaso_headshot.jpg
+about: 
+  template: trestles
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/stephen-pitts-1056835a
+    - text: Twitter
+      href: https://www.twitter.com/StephenPittsSJ/
+    - text: GitHub
+      href: https://github.com/spittssj/
+    - text: Email
+      href: mailto:pitts071@umn.edu
+    - text: CV
+      href: pdf/PittsEconResumeJuly2023.pdf
+    
 ---
 
-This is a Quarto website.
+# Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my website. I am a PhD candidate in the 
+[Department of Applied Economics](https://apec.umn.edu/) at the
+[University of Minnesota](https://www.umn.edu). My advisor is
+[Marc Bellemare](http://marcfbellemare.com/). My fields
+are labor economics and agricultural development and I have a PhD 
+minor in GIScience.

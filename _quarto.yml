@@ -3,18 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "spittssj.github.io"
+  title: "Stephen Pitts SJ"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - publications.qmd
+      - workinprogress.qmd
+      - datasets.qmd
+      - teaching.qmd 
+      - education.qmd 
+      - fieldwork.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    page-layout: full
 
 
 
