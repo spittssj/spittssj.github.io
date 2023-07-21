@@ -2,3 +2,13 @@
 title: "Data Sets"
 ---
 
+From 2017-18, I conducted household surveys in the seven municipality
+region in northeast Chiapas where the indigenous Tseltal people live. 
+I used these surveys in my 
+[USF master's thesis](https://repository.usfca.edu/thes/1079/). 
+
+I am working on producing summary maps and uploading these surveys
+to the Harvard Dataverse. Please contact me for more information.
+
+In summer 2023, we conducted followup survey-experiments in the same
+region. Please contact me for more information.

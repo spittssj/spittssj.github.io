@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "workinprogress.html",
+    "href": "workinprogress.html",
+    "title": "Work In Progress",
+    "section": "",
+    "text": "Here are three papers that I am working on. Two are based on fieldwork in Chiapas with Chris Boyd and Grant Storer supported by the Center for International Food and Agriculture Policy at the University of Minnesota. The third is my Second Year Paper."
+  },
+  {
+    "objectID": "workinprogress.html#unpacking-side-selling-experimental-evidence-from-rural-mexico",
+    "href": "workinprogress.html#unpacking-side-selling-experimental-evidence-from-rural-mexico",
+    "title": "Work In Progress",
+    "section": "Unpacking Side-Selling: Experimental Evidence from Rural Mexico",
+    "text": "Unpacking Side-Selling: Experimental Evidence from Rural Mexico\nStephen Pitts, Chris M. Boyd, and Grant X. Storer\nJune 1, 2023\n\nAbstract\nProducers of agricultural commodities in low and middle-income countries must decide every season whether to sell their production to local intermediaries or to organizations like agricultural cooperatives that offer stable prices, microcredit, technical assistance, or other services. Though agricultural cooperatives depend on relational contracts, the lack of formal enforcement of these contracts allows cooperative members to side-sell. Recent literature has proposed several theories for side-selling: income targeting, risk management, or heterogeneous valuation of cooperative services. We conduct a lab-in-the-field experiment with indigenous Mexican coffee farmers to understand the reasons behind side-selling. In our experiment, farmers choose how much coffee to allocate between a certain-price buyer and an uncertain-price buyer. The experiment randomizes harvest size, additional services offered by the certain-price buyer, the mean price of the uncertain-price buyer, and additional non-agricultural income. We find that poor coffee farmers have a strong preference for price certainty, and that it is more important than other services offered to farmers when deciding to whom to sell. Moreover, larger harvests and receiving extra income decrease the probability of allocating all the harvest to the certain-price buyer, suggesting the presence of income targeting.\nPoster: 2023 AAEA July 2023 | Draft: May 31, 2023"
+  },
+  {
+    "objectID": "workinprogress.html#sweet-and-timely-insurance-the-role-of-honey-in-reducing-coffee-producer-food-insecurity-exposure-in-mexico",
+    "href": "workinprogress.html#sweet-and-timely-insurance-the-role-of-honey-in-reducing-coffee-producer-food-insecurity-exposure-in-mexico",
+    "title": "Work In Progress",
+    "section": "Sweet and Timely Insurance: The Role of Honey in Reducing Coffee Producer Food Insecurity Exposure in Mexico",
+    "text": "Sweet and Timely Insurance: The Role of Honey in Reducing Coffee Producer Food Insecurity Exposure in Mexico\nGrant X. Storer, Stephen Pitts, Chris M. Boyd\nMay 2023\n\nAbstract\nSmallholder coffee producers face a combination of pre- and post-harvest risk factors that leaves them particularly vulnerable to food insecurity. A popular form of on-farm diversification is honey production through beekeeping, that has both nutritional and commercial value. This study investigates the role of honey production as means of food security management due to the heightened pollinating activity during the coffee flowering stage that follows the annual coffee harvest provides an additional non-contemporaneous source of income. Using primary data collected in coffee-producing regions of Chiapas, Mexico, I find that during the honey harvest months, which occurs during the early stage of the lean season, beekeeping coffee producers are less exposed to food insecurity over coffee producers who don’t diversify into honey.\nPoster: 2023 AAEA July 2023 | Draft: May 2023"
+  },
+  {
+    "objectID": "workinprogress.html#where-you-go-depends-on-who-you-know-social-networks-as-determinants-of-mexican-internal-migration",
+    "href": "workinprogress.html#where-you-go-depends-on-who-you-know-social-networks-as-determinants-of-mexican-internal-migration",
+    "title": "Work In Progress",
+    "section": "Where You Go Depends on Who You Know: Social Networks as Determinants of Mexican Internal Migration",
+    "text": "Where You Go Depends on Who You Know: Social Networks as Determinants of Mexican Internal Migration\nStephen Pitts\n6 Sep 2022\n\nAbstract\nRecent qualitative evidence suggests that social networks play an important role in potential migrants’ decisions to migrate and their choice of destination. Yet even the latest literature employing microeconomics migration models with social networks often only estimates these models on small household panel data sets. In this paper, I use the Mexican population census to estimate a structural gravity model with social networks on internal migration flows from origin municipalities to destination states over three recent five-year periods at the intensive and extensive margin. To proxy for the social networks, I use internal migrant flows along the same corridor in a previous time period. My results show that social networks affect migration flows. At the extensive margin, a 1% increase in the size of the social network increases by 5%, 12%, and 13% the likelihood of a migration corridor; at the intensive margin, the equivalent social network elasticities are 19%, 30%, and 32%. I identify the effects using origin and destination characteristics as well as the presence of a migrant flow in 1960 to control for other factors that could drive migration along these corridors. These results contribute to both microeconomic and macroeconomic analysis of the determinants of migration.\nDraft: Sep 2022"
+  },
+  {
     "objectID": "education.html",
     "href": "education.html",
     "title": "Education",
@@ -7,31 +35,59 @@
     "text": "PhD in Applied Economics (expected 2025)\nUniversity of Minnesota\nMaster of Science in International and Development Economics (2018)\nUniversity of San Francisco\nMaster of Theology (2018) and Master of Divinity (2017)\nJesuit School of Theology of Santa Clara University\nMaster of Arts in Philosophy (2011)\nLoyola University Chicago\nStudy in Kyoto Program (2004-5)\nRitsumeikan University (Kyoto, Japan)\nBachelor of Science in Computer Science (2006)\nBachelor of Arts in Mathematics (2006)\nSumma cum laude\nMinor: Japanese\nUniversity of Oklahoma"
   },
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Here are two book chapters based on my fieldwork in Chiapas, Mexico."
+  },
+  {
+    "objectID": "publications.html#the-role-of-the-farmer-and-their-cooperative-in-supply-chain-governance-a-latin-american-small-producer-perspective",
+    "href": "publications.html#the-role-of-the-farmer-and-their-cooperative-in-supply-chain-governance-a-latin-american-small-producer-perspective",
+    "title": "Publications",
+    "section": "The role of the farmer and their cooperative in supply chain governance: a Latin American small producer perspective",
+    "text": "The role of the farmer and their cooperative in supply chain governance: a Latin American small producer perspective\nPart of Handbook of Research on Cooperatives and Mutuals\n07 Feb 2023\n\nAbstract\nThis chapter covers the role of cooperatives in the economic development of smallholder agricultural producers in Latin America. We begin by discussing the Latin American context: the role of agricultural production in the economy of Latin American countries and the particular place of smallholder producers viz-a-viz industrial agricultural producers. The Fair Trade (FT) and cooperative movements have deep roots in this region, thus we present a brief overview of the FT history. Finally, we describe how producer organizations respond to the present-day challenges of agricultural producers by functioning as “connective organizations” and offer a case study of a coffee cooperative in Chiapas, Mexico.\nElgar Online Publishing"
+  },
+  {
+    "objectID": "publications.html#value-chain-integration-as-an-alternative-to-fair-trade-for-chiapas-coffee-farmers",
+    "href": "publications.html#value-chain-integration-as-an-alternative-to-fair-trade-for-chiapas-coffee-farmers",
+    "title": "Publications",
+    "section": "Value Chain Integration as an Alternative to Fair Trade for Chiapas Coffee Farmers",
+    "text": "Value Chain Integration as an Alternative to Fair Trade for Chiapas Coffee Farmers\nPart of Entrepreneurship and Development in the 21st Century\n15 April 2019\n\nAbstract\nCoffee producers typically sell raw coffee beans as the first step in a global value chain. Recently, groups of producers have formed coffee cooperatives that attempt to regain market power by integrating the other steps of the value chain. This study uses matching to estimate the effect of membership in one such cooperative on the household economy of indigenous coffee producers in the state of Chiapas, Mexico. It contributes to the literature by considering new determinants of participation and outcomes of interest. First, social capital at the individual and village level is correlated with cooperative membership more than other demographic factors. Second, cooperative members report an increase in the share of coffee sold and income from coffee sales but not in per-kilo price or total income. These two results reflect particular features of the Chiapas reality and the desires of the indigenous people the cooperative serves. Thus, they reiterate the importance for economic development projects to consider the context of their interventions.\nThe chapter is a revised version of my master’s thesis, which is published open access.\nEmerald Publishing | USF thesis repository"
+  },
+  {
     "objectID": "fieldwork.html",
     "href": "fieldwork.html",
     "title": "Fieldwork",
     "section": "",
-    "text": "Director of Religious Formation (2018-20)\nSacred Heart Church\nEl Paso TX\nRCIA Catechist, Deacon, Priest (2015-18)\nSt. Agnes Catholic Church\nSan Francisco CA"
+    "text": "I hope to add pictures and richer description here soon.\nSince 2017, I have worked with the Capeltic coffee cooperative in Chiapas, Mexico. We conducted two rounds of surveys described in Datasets.\nIn addition, from 2018-2020, I worked as the Director of Religious Format at Sacred Heart Church in El Paso, TX, four blocks from the US/Mexico border. Here I got the idea for my second year paper."
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching Experience",
     "section": "",
-    "text": "I have extensive teaching experience at all levels. I taught high school students math, undergraduates and graduate students economics, and adult religious education.\nAdjunct Instructor (2023-24)\nDepartment of Applied Economics, University of Minnesota\nAPEC 1201: Applications of Excel in Economics and Management - Fall 2023\nAPEC 3071: Microeconomics of International Development - Spring 2024\nTeaching Assistant (2021-23)\nDepartment of Applied Economics, University of Minnesota\nEconometric Analysis (I/II) - PhD Level - Fall 2021, Fall 2022\nEconometric Analysis (III/IV) - PhD Level - Spring 2023\nPrinciples of Microeconomics - Undergraduate - Spring 2022\nAdjunct Instructor (2015-16)\nSt. Ignatius Institute, University of San Francisco\nIntimacy in a Virtual World (Spring 2015)\nScience and Religion (Fall 2015)\nEpic Stories (Spring 2016)\nFull-time Faculty (2011-14)\nDepartment of Mathematics, Jesuit College Prep of Dallas\nAlgebra I\nAlgebra II\nHonors Geometry\nHonors Precalculus"
+    "text": "I have extensive teaching experience at all levels. I taught high school students math, undergraduates and graduate students economics, and adult religious education. A teaching statement is coming soon. Syllabuses are available upon request.\nAdjunct Instructor (2023-24)\nDepartment of Applied Economics, University of Minnesota\nAPEC 1201: Applications of Excel in Economics and Management - Fall 2023\nAPEC 3071: Microeconomics of International Development - Spring 2024\nTeaching Assistant (2021-23)\nDepartment of Applied Economics, University of Minnesota\nEconometric Analysis (I/II) - PhD Level - Fall 2021, Fall 2022\nEconometric Analysis (III/IV) - PhD Level - Spring 2023\nPrinciples of Microeconomics - Undergraduate - Spring 2022\nAdjunct Instructor (2015-16)\nSt. Ignatius Institute, University of San Francisco\nIntimacy in a Virtual World (Spring 2015)\nScience and Religion (Fall 2015)\nEpic Stories (Spring 2016)\nFull-time Faculty (2011-14)\nDepartment of Mathematics, Jesuit College Prep of Dallas\nAlgebra I\nAlgebra II\nHonors Geometry\nHonors Precalculus"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Stephen Pitts SJ",
     "section": "",
-    "text": "Welcome\nWelcome to my website. I am a PhD candidate in the Department of Applied Economics at the University of Minnesota. My advisor is Marc Bellemare. My fields are labor economics and agricultural development and I have a PhD minor in GIScience."
+    "text": "Welcome\nWelcome to my website. I am a PhD candidate in the Department of Applied Economics at the University of Minnesota. My advisor is Marc Bellemare. My fields are labor economics and agricultural development and I have a PhD minor in GIScience.\nI am attending the AAEA 2023 Annual Meeting where I am presenting two posters based on fieldwork in Chiapas, Mexico with colleagues Chris Boyd and Grant Storer.\n\nSide-Selling: Experimental Evidence from Mexico\nCan honey production serve as a coping strategy for coffee producers? Evidence from Mexico\n\nDrafts of both papers are available in the Work In Progress section."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "In addition to being an economist, I am a Roman Catholic priest and a member of the US Central and Southern Province of the Society of Jesus, an international religious order also known as the Jesuits.\nI decided to study economics in order to use my undergraduate degrees in mathematics and computer science from the University of Oklahoma, in order to understand more deeply the reasons why many Mexicans and other Latin Americans migrate to the United States. In my second year in the Jesuits, I worked in the Casa de los Pobres, a Franciscan soup kitchen in Tijuana, Mexico in spring 2007. The experience on the border left a deep impact on me.\nFrom 2015-18, during my theology studies, I completed concurrently a Master’s in International and Development Economics at the University of San Francisco. I did fieldwork in Chiapas, Mexico with Capeltic, a coffee cooperative sponsored by the Mexican Jesuits.\nAs a newly ordained priest, I worked four blocks from the US/Mexico border at Sacred Heart Catholic Church from 2018-2020. This second experience on the border confirmed my desire to study economics in order to come up with better public policy, both in sending communities like those in Chiapas and receiving communities like in El Paso."
+    "text": "In addition to being an economist, I am a Roman Catholic priest and a member of the US Central and Southern Province of the Society of Jesus, an international religious order also known as the Jesuits.\nI decided to study economics in order to use my undergraduate degrees in mathematics and computer science from the University of Oklahoma, in order to understand more deeply the reasons why many Mexicans and other Latin Americans migrate to the United States. In my second year in the Jesuits, I worked in the Casa de los Pobres, a Franciscan soup kitchen in Tijuana, Mexico in spring 2007. The experience on the border left a deep impact on me.\nFrom 2015-18, during my theology studies, I completed concurrently a Master’s in International and Development Economics at the University of San Francisco and a Master’s in Divinity at the Jesuit School of Theology. I did fieldwork in Chiapas, Mexico with Capeltic, a coffee cooperative sponsored by the Mexican Jesuits.\nAs a newly ordained priest, I worked four blocks from the US/Mexico border at Sacred Heart Catholic Church from 2018-2020. This second experience on the border confirmed my desire to study economics in order to come up with better public policy, both in sending communities like those in Chiapas and receiving communities like in El Paso.\nI am currently a PhD candidate in the Department of Applied Economics at the University of Minnesota. I continue to visit El Paso and Chiapas on a regular basis."
+  },
+  {
+    "objectID": "datasets.html",
+    "href": "datasets.html",
+    "title": "Data Sets",
+    "section": "",
+    "text": "From 2017-18, I conducted household surveys in the seven municipality region in northeast Chiapas where the indigenous Tseltal people live. I used these surveys in my USF master’s thesis.\nI am working on producing summary maps and uploading these surveys to the Harvard Dataverse. Please contact me for more information.\nIn summer 2023, we conducted followup survey-experiments in the same region. Please contact me for more information."
   }
 ]

@@ -2,3 +2,25 @@
 title: "Publications"
 ---
 
+Here are two book chapters based on my [fieldwork](fieldwork.html) in Chiapas, Mexico.
+
+## The role of the farmer and their cooperative in supply chain governance: a Latin American small producer perspective 
+Part of [Handbook of Research on Cooperatives and Mutuals](https://www.elgaronline.com/edcollbook/book/9781802202618/9781802202618.xml)  
+07 Feb 2023  
+
+### Abstract 
+This chapter covers the role of cooperatives in the economic development of smallholder agricultural producers in Latin America. We begin by discussing the Latin American context: the role of agricultural production in the economy of Latin American countries and the particular place of smallholder producers viz-a-viz industrial agricultural producers. The Fair Trade (FT) and cooperative movements have deep roots in this region, thus we present a brief overview of the FT history. Finally, we describe how producer organizations respond to the present-day challenges of agricultural producers by functioning as “connective organizations” and offer a case study of a coffee cooperative in Chiapas, Mexico.
+
+[Elgar Online Publishing](https://www.elgaronline.com/edcollchap/book/9781802202618/book-part-9781802202618-19.xml)
+
+## Value Chain Integration as an Alternative to Fair Trade for Chiapas Coffee Farmers
+Part of [Entrepreneurship and Development in the 21st Century](https://www.emerald.com/insight/publication/doi/10.1108/9781789732337)  
+15 April 2019  
+
+### Abstract
+Coffee producers typically sell raw coffee beans as the first step in a global value chain. Recently, groups of producers have formed coffee cooperatives that attempt to regain market power by integrating the other steps of the value chain. This study uses matching to estimate the effect of membership in one such cooperative on the household economy of indigenous coffee producers in the state of Chiapas, Mexico. It contributes to the literature by considering new determinants of participation and outcomes of interest. First, social capital at the individual and village level is correlated with cooperative membership more than other demographic factors. Second, cooperative members report an increase in the share of coffee sold and income from coffee sales but not in per-kilo price or total income. These two results reflect particular features of the Chiapas reality and the desires of the indigenous people the cooperative serves. Thus, they reiterate the importance for economic development projects to consider the context of their interventions.
+
+The chapter is a revised version of my master's thesis, which is published
+open access.
+
+[Emerald Publishing](https://www.emerald.com/insight/content/doi/10.1108/978-1-78973-233-720191007/full/html) | [USF thesis repository](https://repository.usfca.edu/thes/1079/)

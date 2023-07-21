@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+  resources: pdf/*.pdf
 
 website:
   title: "Stephen Pitts SJ"

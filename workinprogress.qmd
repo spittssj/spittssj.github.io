@@ -2,3 +2,68 @@
 title: "Work In Progress"
 ---
 
+Here are three papers that I am working on. Two are based
+on [fieldwork](fieldwork.html) in Chiapas with
+[Chris Boyd](https://www.chrismboyd.com/) and Grant Storer supported by the
+[Center for International Food and Agriculture Policy](https://experts.umn.edu/en/organisations/center-for-international-food-and-agricultural-policy)
+at the University of Minnesota. The third is my Second Year Paper. 
+
+## Unpacking Side-Selling: Experimental Evidence from Rural Mexico    
+Stephen Pitts, Chris M. Boyd, and Grant X. Storer  
+June 1, 2023  
+
+### Abstract
+Producers of agricultural commodities in low and middle-income countries must decide
+every season whether to sell their production to local intermediaries or to organizations like
+agricultural cooperatives that offer stable prices, microcredit, technical assistance, or other
+services. Though agricultural cooperatives depend on relational contracts, the lack of formal
+enforcement of these contracts allows cooperative members to side-sell. Recent literature has
+proposed several theories for side-selling: income targeting, risk management, or heterogeneous
+valuation of cooperative services. We conduct a lab-in-the-field experiment with indigenous
+Mexican coffee farmers to understand the reasons behind side-selling. In our experiment,
+farmers choose how much coffee to allocate between a certain-price buyer and an uncertain-price
+buyer. The experiment randomizes harvest size, additional services offered by the certain-price
+buyer, the mean price of the uncertain-price buyer, and additional non-agricultural income. We
+find that poor coffee farmers have a strong preference for price certainty, and that it is more
+important than other services offered to farmers when deciding to whom to sell. Moreover,
+larger harvests and receiving extra income decrease the probability of allocating all the harvest
+to the certain-price buyer, suggesting the presence of income targeting.
+
+Poster: [2023 AAEA July 2023](https://ageconsearch.umn.edu/record/335981?ln=en) | 
+Draft:  [May 31, 2023](pdf/Chiapas_Experiment_Paper_20230531.pdf)
+
+## Sweet and Timely Insurance: The Role of Honey in Reducing Coffee Producer Food Insecurity Exposure in Mexico
+Grant X. Storer, Stephen Pitts, Chris M. Boyd   
+May 2023
+
+### Abstract
+Smallholder coffee producers face a combination of pre- and post-harvest risk factors that leaves them particularly vulnerable to food insecurity. A popular form of on-farm diversification is honey production through beekeeping, that has both nutritional and commercial value. This study investigates the role of honey production as means of food security management due to the heightened pollinating activity during the coffee flowering stage that follows the annual coffee harvest provides an additional non-contemporaneous source of income. Using primary data collected in coffee-producing regions of Chiapas, Mexico, I find that during the honey harvest months, which occurs during the early stage of the lean season, beekeeping coffee producers are less exposed to food insecurity over coffee producers who don’t diversify into honey. 
+
+Poster: [2023 AAEA July 2023](https://ageconsearch.umn.edu/record/335983?ln=en) | 
+Draft:  [May 2023](pdf/Chiapas_Honey_Paper_May2023.pdf)
+
+## Where You Go Depends on Who You Know: Social Networks as Determinants of Mexican Internal Migration
+Stephen Pitts   
+6 Sep 2022
+
+### Abstract
+Recent qualitative evidence suggests that social networks play
+an important role in potential migrants’ decisions to migrate and their choice
+of destination. Yet even the latest literature employing microeconomics migration
+models with social networks often only estimates these models on
+small household panel data sets. In this paper, I use the Mexican population
+census to estimate a structural gravity model with social networks on internal
+migration flows from origin municipalities to destination states over three
+recent five-year periods at the intensive and extensive margin. To proxy for
+the social networks, I use internal migrant flows along the same corridor in a
+previous time period. My results show that social networks affect migration
+flows. At the extensive margin, a 1% increase in the size of the social network
+increases by 5%, 12%, and 13% the likelihood of a migration corridor; at the
+intensive margin, the equivalent social network elasticities are 19%, 30%,
+and 32%. I identify the effects using origin and destination characteristics
+as well as the presence of a migrant flow in 1960 to control for other factors
+that could drive migration along these corridors. These results contribute
+to both microeconomic and macroeconomic analysis of the determinants of
+migration.
+
+Draft:  [Sep 2022](pdf/PittsSYPSep6.pdf)

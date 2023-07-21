@@ -1,5 +1,8 @@
 ---
 title: "About Me"
+image: images/elpaso_headshot.jpg
+about: 
+  template: trestles
 ---
 
 In addition to being an economist,
@@ -21,8 +24,10 @@ impact on me.
 
 From 2015-18, during my theology studies, I completed concurrently
 a [Master's in International and Development Economics](https://myusf.usfca.edu/arts-sciences/economics/idec) at the 
-[University of San Francisco](http://www.usfca.edu). I did fieldwork
-in Chiapas, Mexico with [Capeltic](https://www.capeltic.org/home),
+[University of San Francisco](http://www.usfca.edu) and
+a [Master's in Divinity](https://www.scu.edu/jst/academics/academic-degrees/master-of-divinity-mdiv/)
+at the [Jesuit School of Theology](https://www.scu.edu/jst/).
+I did fieldwork in Chiapas, Mexico with [Capeltic](https://www.capeltic.org/home),
 a coffee cooperative sponsored by the [Mexican Jesuits](https://jesuitasmexico.org/).
 
 As a newly ordained priest, I worked four blocks from the US/Mexico border at
@@ -30,3 +35,8 @@ As a newly ordained priest, I worked four blocks from the US/Mexico border at
 This second experience on the border confirmed my desire to study
 economics in order to come up with better public policy, both in 
 sending communities like those in Chiapas and receiving communities like in El Paso.
+
+I am currently a PhD candidate in the 
+[Department of Applied Economics](https://apec.umn.edu/) at the
+[University of Minnesota](https://www.umn.edu). I continue to visit El Paso
+and Chiapas on a regular basis. 
