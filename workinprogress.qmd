@@ -10,27 +10,23 @@ at the University of Minnesota. The third is my Second Year Paper.
 
 ## Unpacking Side-Selling: Experimental Evidence from Rural Mexico    
 Stephen Pitts, Chris M. Boyd, and Grant X. Storer  
-June 1, 2023  
+December 28, 2023
+Under review. 
 
 ### Abstract
-Producers of agricultural commodities in low and middle-income countries must decide
-every season whether to sell their production to local intermediaries or to organizations like
-agricultural cooperatives that offer stable prices, microcredit, technical assistance, or other
-services. Though agricultural cooperatives depend on relational contracts, the lack of formal
-enforcement of these contracts allows cooperative members to side-sell. Recent literature has
-proposed several theories for side-selling: income targeting, risk management, or heterogeneous
-valuation of cooperative services. We conduct a lab-in-the-field experiment with indigenous
-Mexican coffee farmers to understand the reasons behind side-selling. In our experiment,
-farmers choose how much coffee to allocate between a certain-price buyer and an uncertain-price
-buyer. The experiment randomizes harvest size, additional services offered by the certain-price
-buyer, the mean price of the uncertain-price buyer, and additional non-agricultural income. We
-find that poor coffee farmers have a strong preference for price certainty, and that it is more
-important than other services offered to farmers when deciding to whom to sell. Moreover,
-larger harvests and receiving extra income decrease the probability of allocating all the harvest
-to the certain-price buyer, suggesting the presence of income targeting.
+Marketing cooperatives offer their members a guaranteed minimum price and other services.
+Their existence is threatened when members side-sell a part of their harvest to outside buyers.
+We conduct a lab-in-the-field experiment with indigenous coffee producers in southern Mexico
+to examine the effect of four factors in the marketing decision: extra income, the presence
+of microcredit and/or technical assistance, average outside buyer price, and harvest quantity.
+Our results show that participants allocate on average 83% of their harvest to the certain-price
+buyer. Changes in harvest quantity and outside-buyer price have minimal effects. The offer
+of complementary services has a null effect. Moreover, 25% of the participants always allocate
+their entire harvest to the certain-price buyer. Extra income increases this probability by 9.6%.
+Subgroup analysis reveals that this effect is limited to existing cooperative members.
 
 Poster: [2023 AAEA July 2023](https://ageconsearch.umn.edu/record/335981?ln=en) | 
-Draft:  [May 31, 2023](pdf/Chiapas_Experiment_Paper_20230531.pdf)
+Draft:  [December 28, 2023](pdf/ChiapasExperimentPaper_20231228.pdf)
 
 ## Sweet and Timely Insurance: The Role of Honey in Reducing Coffee Producer Food Insecurity Exposure in Mexico
 Grant X. Storer, Stephen Pitts, Chris M. Boyd   
