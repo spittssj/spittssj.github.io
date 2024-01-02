@@ -13,7 +13,7 @@ about:
     - text: Email
       href: mailto:pitts071@umn.edu
     - text: CV
-      href: pdf/PittsEconResumeSep2023.pdf
+      href: pdf/PittsEconResumeJan2024.pdf
     
 ---
 
