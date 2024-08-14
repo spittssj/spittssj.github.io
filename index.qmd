@@ -13,7 +13,7 @@ about:
     - text: Email
       href: mailto:pitts071@umn.edu
     - text: CV
-      href: pdf/PittsEconResumeJan2024.pdf
+      href: pdf/PittsEconResumeAug2024_3.pdf
     
 ---
 
@@ -24,13 +24,4 @@ Welcome to my website. I am a PhD candidate in the
 [University of Minnesota](https://www.umn.edu). My advisor is
 [Marc Bellemare](http://marcfbellemare.com/). My fields
 are labor economics and agricultural development and I have a PhD 
-minor in GIScience.
-
-I attended the [AAEA 2023 Annual Meeting](https://www.aaea.org/meetings/2023-aaea-annual-meeting)
-where I presented two posters based on [fieldwork](fieldwork.html) in Chiapas, Mexico
-with colleagues [Chris Boyd](https://www.chrismboyd.com/) and [Grant Storer](https://grantxstorer.com). 
-
-* [Side-Selling: Experimental Evidence from Mexico](https://ageconsearch.umn.edu/record/335981?ln=en) 
-*  [Can honey production serve as a coping strategy for coffee producers? Evidence from Mexico](https://ageconsearch.umn.edu/record/335983?ln=en)
-
-Drafts of both papers are available in the [Work In Progress](workinprogress.html) section.
+minor in GIScience. I am on the job market for 2024-25.

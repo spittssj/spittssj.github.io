@@ -11,7 +11,7 @@ at the University of Minnesota. The third is my Second Year Paper.
 ## Unpacking Side-Selling: Experimental Evidence from Rural Mexico    
 Stephen Pitts, Chris M. Boyd, and Grant X. Storer  
 December 28, 2023.  
-Under review. 
+R&R at Agricultural Economics. 
 
 ### Abstract
 Marketing cooperatives offer their members a guaranteed minimum price and other services.
@@ -25,18 +25,16 @@ of complementary services has a null effect. Moreover, 25% of the participants a
 their entire harvest to the certain-price buyer. Extra income increases this probability by 9.6%.
 Subgroup analysis reveals that this effect is limited to existing cooperative members.
 
-Poster: [2023 AAEA July 2023](https://ageconsearch.umn.edu/record/335981?ln=en) | 
-Draft:  [December 28, 2023](pdf/ChiapasExperimentPaper_20231228.pdf)
+Draft: [December 28, 2023](pdf/ChiapasExperimentPaper_20231228.pdf)
 
 ## Sweet and Timely Insurance: The Role of Honey in Reducing Coffee Producer Food Insecurity Exposure in Mexico
-Grant X. Storer, Stephen Pitts, Chris M. Boyd   
-May 2023
+Grant X. Storer, Stephen Pitts, Chris M. Boyd, Jesse Anttila-Hughes   
+Under review.
 
 ### Abstract
 Smallholder coffee producers face a combination of pre- and post-harvest risk factors that leaves them particularly vulnerable to food insecurity. A popular form of on-farm diversification is honey production through beekeeping, that has both nutritional and commercial value. This study investigates the role of honey production as means of food security management due to the heightened pollinating activity during the coffee flowering stage that follows the annual coffee harvest provides an additional non-contemporaneous source of income. Using primary data collected in coffee-producing regions of Chiapas, Mexico, I find that during the honey harvest months, which occurs during the early stage of the lean season, beekeeping coffee producers are less exposed to food insecurity over coffee producers who don’t diversify into honey. 
 
-Poster: [2023 AAEA July 2023](https://ageconsearch.umn.edu/record/335983?ln=en) | 
-Draft:  [May 2023](pdf/Chiapas_Honey_Paper_May2023.pdf)
+Draft: [July 18, 2024](pdf/ChiapasHoneyPaper_20240718.pdf)
 
 ## Where You Go Depends on Who You Know: Social Networks as Determinants of Mexican Internal Migration
 Stephen Pitts   
