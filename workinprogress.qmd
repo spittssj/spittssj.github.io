@@ -1,5 +1,9 @@
 ---
 title: "Work In Progress"
+resources:
+  - "pdf/ChiapasExperimentPaper_20241203.pdf"
+  - "pdf/ChiapasHoneyPaper_20240718.pdf"
+  - "pdf/PittsSYPSep6.pdf"
 ---
 
 Here are three papers that I am working on. Two are based
@@ -8,24 +12,25 @@ on [fieldwork](fieldwork.html) in Chiapas with
 [Center for International Food and Agriculture Policy](https://experts.umn.edu/en/organisations/center-for-international-food-and-agricultural-policy)
 at the University of Minnesota. The third is my Second Year Paper. 
 
-## Unpacking Side-Selling: Experimental Evidence from Rural Mexico    
+## Unpacking Side-Selling: Experimental Evidence from Rural Mexico  
 Stephen Pitts, Chris M. Boyd, and Grant X. Storer  
-December 28, 2023.  
+December 3, 2024.  
 R&R at Agricultural Economics. 
 
 ### Abstract
-Marketing cooperatives offer their members a guaranteed minimum price and other services.
-Their existence is threatened when members side-sell a part of their harvest to outside buyers.
-We conduct a lab-in-the-field experiment with indigenous coffee producers in southern Mexico
-to examine the effect of four factors in the marketing decision: extra income, the presence
-of microcredit and/or technical assistance, average outside buyer price, and harvest quantity.
-Our results show that participants allocate on average 83% of their harvest to the certain-price
-buyer. Changes in harvest quantity and outside-buyer price have minimal effects. The offer
-of complementary services has a null effect. Moreover, 25% of the participants always allocate
-their entire harvest to the certain-price buyer. Extra income increases this probability by 9.6%.
-Subgroup analysis reveals that this effect is limited to existing cooperative members.
+With the rise of market-led development, marketing cooperatives have emerged that offer
+smallholder producers a guaranteed minimum price for their cash crops. Their existence is
+threatened when members side-sell a part of their harvest to outside buyers. We conduct a
+lab-in-the-field experiment with indigenous coffee producers in southern Mexico to examine the
+effect of four factors in the marketing decision: additional income, the presence of microcredit
+and/or technical assistance, average outside buyer price, and harvest quantity. Our results show
+that participants allocate on average 82% of their harvest to the certain-price buyer. Changes
+in harvest quantity and outside-buyer price have minimal effects. The offer of complementary
+services has a null effect. Moreover, 21% of the participants always allocate their entire harvest
+to the certain-price buyer. Extra income increases this probability by 11%. Subgroup analysis
+reveals that this effect is limited to existing cooperative members.
 
-Draft: [December 28, 2023](pdf/ChiapasExperimentPaper_20231228.pdf)
+Draft: [December 3, 2024](pdf/ChiapasExperimentPaper_20241203.pdf)
 
 ## Sweet and Timely Insurance: The Role of Honey in Reducing Coffee Producer Food Insecurity Exposure in Mexico
 Grant X. Storer, Stephen Pitts, Chris M. Boyd, Jesse Anttila-Hughes   
