@@ -1,14 +1,22 @@
 ---
 title: "Teaching Experience"
+resources:
+  - "pdf/pittsteachingstatement.pdf"
+  - "pdf/syllabus/apec3071spring2024.pdf"
+  - "pdf/syllabus/apec1201fall2023.pdf"
+  - "pdf/syllabus/SII_ScienceReligion_Fall2015.pdf"
+  - "pdf/syllabus/SII_IntimacyVirtualWorld_Spring2015.pdf"
+  - "pdf/syllabus/SII_EpicStories_Spring2016.pdf"
 ---
 
 I have extensive teaching experience at all levels. I taught high school students math, undergraduates and graduate students economics, and adult religious education. 
-A teaching statement is coming soon. 
+[Teaching Statement](pdf/pittsteachingstatement.pdf)
 
 **Adjunct Instructor (2023-24)**\
 Department of Applied Economics, University of Minnesota\
 APEC 1201: Applications of Excel in Economics and Management - Fall 2023 - [syllabus](pdf/syllabus/apec1201fall2023.pdf)\
 APEC 3071: Microeconomics of International Development - Spring 2024
+[syllabus](pdf/syllabus/apec3071spring2024.pdf)
 
 **Teaching Assistant (2021-23)**\
 Department of Applied Economics, University of Minnesota\
