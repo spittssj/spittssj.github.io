@@ -15,7 +15,10 @@ about:
     - text: CV
       href: pdf/PittsEconResumeJan2025.pdf
 resources:
-    "pdf/PittsEconResumeJan2025.pdf"
+    - "pdf/PittsEconResumeJan2025.pdf"
+    - "pdf/pittsdeistatement.pdf"
+    - "pdf/pittsteachingstatement.pdf"
+    - "pdf/pittsresearchstatement.pdf"
 
 ---
 
@@ -26,4 +29,9 @@ Welcome to my website. I am a PhD candidate in the
 [University of Minnesota](https://www.umn.edu). My advisor is
 [Marc Bellemare](http://marcfbellemare.com/). My fields
 are labor economics and agricultural development and I have a PhD 
-minor in GIScience. I am on the job market for 2024-25.
+minor in GIScience. 
+
+I am on the job market for 2024-25.
+* [pdf/pittsresearchstatement.pdf](Research Statement)
+* [pdf/pittsteachingstatement.pdf](Teaching Statement)
+* [pdf/deistatement.pdf](DEI Statement)

@@ -4,6 +4,7 @@ resources:
   - "pdf/ChiapasExperimentPaper_20241203.pdf"
   - "pdf/ChiapasHoneyPaper_20240718.pdf"
   - "pdf/PittsSYPSep6.pdf"
+  - "pdf/pittsresearchstatement.pdf"
 ---
 
 Here are three papers that I am working on. Two are based
@@ -11,6 +12,7 @@ on [fieldwork](fieldwork.html) in Chiapas with
 [Chris Boyd](https://www.chrismboyd.com/) and Grant Storer supported by the
 [Center for International Food and Agriculture Policy](https://experts.umn.edu/en/organisations/center-for-international-food-and-agricultural-policy)
 at the University of Minnesota. The third is my Second Year Paper. 
+Here is my [research statement](pdf/pittsresearchstatement.pdf).
 
 ## Unpacking Side-Selling: Experimental Evidence from Rural Mexico  
 Stephen Pitts, Chris M. Boyd, and Grant X. Storer  
