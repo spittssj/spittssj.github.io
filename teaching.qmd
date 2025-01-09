@@ -10,7 +10,7 @@ resources:
 ---
 
 I have extensive teaching experience at all levels. I taught high school students math, undergraduates and graduate students economics, and adult religious education. 
-[Teaching Statement](pdf/pittsteachingstatement.pdf)
+[Teaching Statement](pdf/pittsteachingstatement.pdf) | [DEI Statement](pdf/pittsdeistatement.pdf)
 
 **Adjunct Instructor (2023-24)**\
 Department of Applied Economics, University of Minnesota\
