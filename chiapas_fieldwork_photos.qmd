@@ -6,10 +6,13 @@ lightbox: true
 Here are some pictures from fieldwork in Chiapas in summer 2022. This fieldwork
 is the basis for two of the papers in the [Work in Progress](workinprogress.html) section.
 
+::: {layout="[[1, 1, 1], [1, 1, 1], [1, 1, 1], [1, 1, 1], [1, 1, 1]]"}
 ![Grant preparing the tablets.](images/chiapas_photos/Picture1.png){group="chiapas_fieldwork_gallery"}
 
 ![Stephen with the script and the box.](images/chiapas_photos/Picture2.png){group="chiapas_fieldwork_gallery"}
+
 ![The research truck.](images/chiapas_photos/Picture3.png){group="chiapas_fieldwork_gallery"}
+
 ![Celebrating Mass after a field visit.](images/chiapas_photos/Picture4.png){group="chiapas_fieldwork_gallery"}
 
 ![The villagers blessing me after a field visit.](images/chiapas_photos/Picture5.png){group="chiapas_fieldwork_gallery"}
@@ -19,7 +22,9 @@ is the basis for two of the papers in the [Work in Progress](workinprogress.html
 ![Hospitality after a field visit.](images/chiapas_photos/Picture7.png){group="chiapas_fieldwork_gallery"}
 
 ![Grant admiring the scenery.](images/chiapas_photos/Picture8.png){group="chiapas_fieldwork_gallery"}
+
 ![The team setting out](images/chiapas_photos/Picture9.png){group="chiapas_fieldwork_gallery"}
+
 ![A surveyor conducting the experiment.](images/chiapas_photos/Picture10.png){group="chiapas_fieldwork_gallery"}
 
 ![Processing reimbursements in the field.](images/chiapas_photos/Picture11.png){group="chiapas_fieldwork_gallery"}
@@ -27,6 +32,5 @@ is the basis for two of the papers in the [Work in Progress](workinprogress.html
 ![Mike Boland observing the experiment.](images/chiapas_photos/Picture12.png){group="chiapas_fieldwork_gallery"}
 
 ![Distribution of dry goods](images/chiapas_photos/Picture13.png){group="chiapas_fieldwork_gallery"}
-
-
+:::
 
