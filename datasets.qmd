@@ -6,7 +6,8 @@ From 2017-18, I conducted household surveys in the seven municipality
 region in northeast Chiapas where the indigenous Tseltal people live. 
 I used these surveys in my 
 [USF master's thesis](https://repository.usfca.edu/thes/1079/). 
-For Advanced Geocomputing at the University of Minnesota,
+
+For my Advanced Geocomputing class at the University of Minnesota,
 I build a [Shiny visualization](https://batsilmaya.shinyapps.io/eftbrowser/) 
 of summary statistics from the
 survey data. I continue to be interested in how to share
