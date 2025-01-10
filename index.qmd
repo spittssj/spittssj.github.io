@@ -33,6 +33,6 @@ minor in GIScience.
 
 I am on the job market for 2024-25.
 
-* [pdf/pittsresearchstatement.pdf](Research Statement)
-* [pdf/pittsteachingstatement.pdf](Teaching Statement)
-* [pdf/deistatement.pdf](DEI Statement)
+* [Research Statement](pdf/pittsresearchstatement.pdf)
+* [Teaching Statement](pdf/pittsteachingstatement.pdf)
+* [DEI Statement](pdf/deistatement.pdf)
