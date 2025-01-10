@@ -4,33 +4,29 @@ lightbox: true
 ---
 
 Here are some pictures from fieldwork in Chiapas in summer 2022. This fieldwork
-is the basis for two of the papers in the [[Work in Progress]] section.
+is the basis for two of the papers in the [Work in Progress](workinprogress.html) section.
 
-![Picture 1](images/chiapas_photos/Picture1.png){group="chiapas_fieldwork_gallery"}
+![Grant preparing the tablets.](images/chiapas_photos/Picture1.png){group="chiapas_fieldwork_gallery"}
 
-![Picture 2](images/chiapas_photos/Picture2.png){group="chiapas_fieldwork_gallery"}
-![Picture 3](images/chiapas_photos/Picture3.png){group="chiapas_fieldwork_gallery"}
-![Picture 4](images/chiapas_photos/Picture4.png){group="chiapas_fieldwork_gallery"}
+![Stephen with the script and the box.](images/chiapas_photos/Picture2.png){group="chiapas_fieldwork_gallery"}
+![The research truck.](images/chiapas_photos/Picture3.png){group="chiapas_fieldwork_gallery"}
+![Celebrating Mass after a field visit.](images/chiapas_photos/Picture4.png){group="chiapas_fieldwork_gallery"}
 
-![Picture 5](images/chiapas_photos/Picture5.png){group="chiapas_fieldwork_gallery"}
+![The villagers blessing me after a field visit.](images/chiapas_photos/Picture5.png){group="chiapas_fieldwork_gallery"}
 
-![Picture 6](images/chiapas_photos/Picture6.png){group="chiapas_fieldwork_gallery"}
+![Field visit in a community center.](images/chiapas_photos/Picture6.png){group="chiapas_fieldwork_gallery"}
 
-![Picture 7](images/chiapas_photos/Picture7.png){group="chiapas_fieldwork_gallery"}
+![Hospitality after a field visit.](images/chiapas_photos/Picture7.png){group="chiapas_fieldwork_gallery"}
 
-![Picture 8](images/chiapas_photos/Picture8.png){group="chiapas_fieldwork_gallery"}
-![Picture 9](images/chiapas_photos/Picture9.png){group="chiapas_fieldwork_gallery"}
-![Picture 10](images/chiapas_photos/Picture10.png){group="chiapas_fieldwork_gallery"}
+![Grant admiring the scenery.](images/chiapas_photos/Picture8.png){group="chiapas_fieldwork_gallery"}
+![The team setting out](images/chiapas_photos/Picture9.png){group="chiapas_fieldwork_gallery"}
+![A surveyor conducting the experiment.](images/chiapas_photos/Picture10.png){group="chiapas_fieldwork_gallery"}
 
-![Picture 11](images/chiapas_photos/Picture11.png){group="chiapas_fieldwork_gallery"}
+![Processing reimbursements in the field.](images/chiapas_photos/Picture11.png){group="chiapas_fieldwork_gallery"}
 
-![Picture 12](images/chiapas_photos/Picture12.png){group="chiapas_fieldwork_gallery"}
+![Mike Boland observing the experiment.](images/chiapas_photos/Picture12.png){group="chiapas_fieldwork_gallery"}
 
-![Picture 13](images/chiapas_photos/Picture13.png){group="chiapas_fieldwork_gallery"}
+![Distribution of dry goods](images/chiapas_photos/Picture13.png){group="chiapas_fieldwork_gallery"}
 
-![Picture 14](images/chiapas_photos/Picture14.png){group="chiapas_fieldwork_gallery"}
 
-![Picture 15](images/chiapas_photos/Picture15.png){group="chiapas_fieldwork_gallery"}
-
-![Picture 16](images/chiapas_photos/Picture16.png){group="chiapas_fieldwork_gallery"}
 
