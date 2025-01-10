@@ -95,6 +95,6 @@
     "href": "datasets.html",
     "title": "Data Sets",
     "section": "",
-    "text": "From 2017-18, I conducted household surveys in the seven municipality region in northeast Chiapas where the indigenous Tseltal people live. I used these surveys in my USF master’s thesis.\nI am working on producing summary maps and uploading these surveys to the Harvard Dataverse. Please contact me for more information.\nIn summer 2023, we conducted followup survey-experiments in the same region. Please contact me for more information."
+    "text": "From 2017-18, I conducted household surveys in the seven municipality region in northeast Chiapas where the indigenous Tseltal people live. I used these surveys in my USF master’s thesis. For Advanced Geocomputing at the University of Minnesota, I build a Shiny visualization of summary statistics from the survey data. I continue to be interested in how to share research results with local communities."
   }
 ]
