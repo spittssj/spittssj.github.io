@@ -2,11 +2,11 @@
 title: "Fieldwork"
 ---
 
-I hope to add pictures and richer description here soon.
-
 Since 2017, I have worked with the [Capeltic](http://www.capeltic.org) 
 coffee cooperative in Chiapas, Mexico. We conducted two rounds of surveys
-described in [Datasets](datasets.html). 
+described in [Datasets](datasets.html). Here are some 
+[Chiapas Fieldwork Photos](chiapas_fieldwork_photos.html) from
+the fieldwork we did in 2022. 
 
 In addition, from 2018-2020, I worked as the Director of Religious Formation
 at [Sacred Heart Church](https://www.sacredheartelpaso.org/) in El Paso, TX,
