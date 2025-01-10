@@ -35,4 +35,4 @@ I am on the job market for 2024-25.
 
 * [Research Statement](pdf/pittsresearchstatement.pdf)
 * [Teaching Statement](pdf/pittsteachingstatement.pdf)
-* [DEI Statement](pdf/deistatement.pdf)
+* [DEI Statement](pdf/pittsdeistatement.pdf)
