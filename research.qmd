@@ -1,0 +1,48 @@
+---
+title: "Research"
+resources:
+  - "pdf/ChiapasExperimentPaper_20241203.pdf"
+  - "pdf/LatinAmericaCooperativesChapter.pdf"
+  - "pdf/PittsSYPSep6.pdf"
+  - "pdf/pittsresearchstatement.pdf"
+---
+My work is based on almost twenty years of experience working
+with Latin Americans: in the US, on the US/Mexico border, in southern Mexico,
+and in northern Peru. The work on agricultural value chains is based
+mainly on [fieldwork](fieldwork.html) in Chiapas. The work on structural transformation
+is based on harmonized data from the Mexico census that I obtained from [IPUMS](https://international.ipums.org/international/)
+and confidental employer-employee data from the [EconLab](https://www.banxico.org.mx/EconLab/inicio)
+at the Bank of Mexico. The work on Catholic Social Teaching has come from reflecting
+on my work as an economist in light of my own faith tradition. 
+
+Here is my [research statement](pdf/pittsresearchstatement.pdf).
+
+## Agricultural Value Chains
+### Working Papers
+Unpacking Side-Selling: Experimental Evidence from Rural Mexico (with [Chris Boyd Leon](https://www.chrismboyd.com/) and Grant Storer) | [Draft](pdf/ChiapasExperimentPaper_20241203.pdf). R&R at Agricultural Economics. 
+
+### Work in Progress
+Information decay and technology adoption under risk
+(with Grant Storer and [Jesse Anttila-Hughes](https://sites.google.com/site/jesseanttilahughes/)).
+
+### Book Chapters
+The role of the farmer and their cooperative in supply chain governance: a Latin American small producer perspective. 2023. 
+*[Handbook of Research on Cooperatives and Mutuals](https://www.elgaronline.com/edcollbook/book/9781802202618/9781802202618.xml)* | [Ungated Version](pdf/LatinAmericaCooperativesChapter.pdf)
+
+Value Chain Integration as an Alternative to Fair Trade for Chiapas Coffee Farmers. 2019. *[Entrepreneurship and Development in the 21st Century](https://www.emerald.com/insight/content/doi/10.1108/978-1-78973-233-720191007/full/html)*. 
+
+This article is a revised version of my master's thesis, which is available open access from the [USF thesis repository](https://repository.usfca.edu/thes/1079/).
+
+## Structural Transformation
+### Work in Progress
+Where You Go Depends on Who you Know: The Effect of Social Networks on Mexican Internal Migration (with [Alejandro Estefan](https://sites.google.com/nd.edu/alejandroestefan/home)) | 
+[Very Old Draft](pdf/PittsSYPSep6.pdf).
+
+It's All About Who You Know: Social Networks and Job Turnover in Mexico (with [Lorenzo Aldeco](https://www.lorenzo-aldeco.com/)).
+
+## Catholic Social Teaching
+### Working Papers
+Impact Evaluation Under the Banner of the Cross. 2018. [Open Access Version](https://scholarcommons.scu.edu/jst_dissertations/30/).
+
+This was my thesis for the master of theology at the [Jesuit School of Theology](https://www.scu.edu/jst/),
+which I completed concurrently with my master's in economics from the [University of San Francisco](http://www.usf.edu).

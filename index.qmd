@@ -6,16 +6,16 @@ about:
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/stephen-pitts-1056835a
-    - text: Twitter
-      href: https://www.twitter.com/StephenPittsSJ/
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=b3XZgEAAAAAJ&hl=en
     - text: GitHub
       href: https://github.com/spittssj/
     - text: Email
       href: mailto:pitts071@umn.edu
     - text: CV
-      href: pdf/PittsEconResumeJan2025.pdf
+      href: pdf/PittsEconResumeMar2025.pdf
 resources:
-    - "pdf/PittsEconResumeJan2025.pdf"
+    - "pdf/PittsEconResumeMar2025.pdf"
     - "pdf/pittsdeistatement.pdf"
     - "pdf/pittsteachingstatement.pdf"
     - "pdf/pittsresearchstatement.pdf"
@@ -33,23 +33,23 @@ Beginning in Fall 2025, I will be the Wade Jesuit Visiting Assistant
 Professor at the [Department of Economics](https://www.marquette.edu/business/economics/)
 of [Marquette University](http://www.marquette.edu). 
 
-One area of my research examines smallholder agricultural
+One area of [my research](research.html) examines smallholder 
 producers in Latin America and the agricultural cooperatives that 
 improve their relationships to agricultural value chains.
 
-In several projects, I have used a variety of techniques
+I use a variety of techniques
 -- a household survey, lab-in-the-field experiment, 
 administrative data, and geospatial data --
-to answer questions what which producers join cooperatives,
-how cooperatives improve their livelihood, and when cooperative
+to answer questions about which producers join cooperatives,
+how cooperatives improve their livelihood, and what happens when cooperative
 relationships break down.
 
-Another area of my research examines what happens
+Another area of [my research](research.html) examines what happens
 when smallholder producers exit agriculture: the effect of
 government subsidies on internal migration and the role
 of worker referrals in the transition to the formal sector. 
 
-As a Jesuit priest, I have recently been featured in Jesuit publications:
-* [Catholic Social Teaching and Trump's Tarrifs][[https://www.americamagazine.org/politics-society/2025/03/03/trump-tariffs-catholic-social-teaching-250048]]
-* [Jesuit Special Studies: Charting Paths of Learned Ministry]
-(https://www.jesuitscentralsouthern.org/stories/jesuit-special-studies-charting-paths-of-learned-ministry/)
+As a Jesuit priest-economist, I have recently been featured in Jesuit publications:
+
+* [Jesuit Special Studies: Charting Paths of Learned Ministry](https://www.jesuitscentralsouthern.org/stories/jesuit-special-studies-charting-paths-of-learned-ministry/). 3/4/2025
+* [Catholic Social Teaching and Trump's Tariffs](https://www.americamagazine.org/politics-society/2025/03/03/trump-tariffs-catholic-social-teaching-250048). 3/3/2025

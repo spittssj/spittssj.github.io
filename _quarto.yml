@@ -10,8 +10,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - publications.qmd
-      - workinprogress.qmd
+      - research.qmd
       - datasets.qmd
       - teaching.qmd 
       - education.qmd 
