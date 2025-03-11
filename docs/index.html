@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.55">
+<meta name="generator" content="quarto-1.6.41">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,10 +34,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-48ffa3e5b9d089919c6712c39e5b00f2.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-66f987b68c3d73e06ed59eea3c4f36f1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -164,13 +164,12 @@ ul.task-list li input[type="checkbox"] {
   <div class="about-contents"><main class="content column-page" id="quarto-document-content">
 <section id="welcome" class="level1">
 <h1>Welcome</h1>
-<p>Welcome to my website. I am a PhD candidate in the <a href="https://apec.umn.edu/">Department of Applied Economics</a> at the <a href="https://www.umn.edu">University of Minnesota</a>. My advisor is <a href="http://marcfbellemare.com/">Marc Bellemare</a>. My fields are labor economics and agricultural development and I have a PhD minor in GIScience.</p>
-<p>I am on the job market for 2024-25.</p>
-<ul>
-<li><a href="pdf/pittsresearchstatement.pdf">Research Statement</a></li>
-<li><a href="pdf/pittsteachingstatement.pdf">Teaching Statement</a></li>
-<li><a href="pdf/pittsdeistatement.pdf">DEI Statement</a></li>
-</ul>
+<p>Welcome to my website. I am a PhD candidate in the <a href="https://apec.umn.edu/">Department of Applied Economics</a> at the <a href="https://www.umn.edu">University of Minnesota</a>. My advisor is <a href="http://marcfbellemare.com/">Marc Bellemare</a>.</p>
+<p>Beginning in Fall 2025, I will be the Wade Jesuit Visiting Assistant Professor at the <a href="https://www.marquette.edu/business/economics/">Department of Economics</a> of <a href="http://www.marquette.edu">Marquette University</a>.</p>
+<p>One area of my research examines smallholder agricultural producers in Latin America and the agricultural cooperatives that improve their relationships to agricultural value chains.</p>
+<p>In several projects, I have used a variety of techniques – a household survey, lab-in-the-field experiment, administrative data, and geospatial data – to answer questions what which producers join cooperatives, how cooperatives improve their livelihood, and when cooperative relationships break down.</p>
+<p>Another area of my research examines what happens when smallholder producers exit agriculture: the effect of government subsidies on internal migration and the role of worker referrals in the transition to the formal sector.</p>
+<p>As a Jesuit priest, I have recently been featured in Jesuit publications: * [Catholic Social Teaching and Trump’s Tarrifs][[https://www.americamagazine.org/politics-society/2025/03/03/trump-tariffs-catholic-social-teaching-250048]] * [Jesuit Special Studies: Charting Paths of Learned Ministry] (https://www.jesuitscentralsouthern.org/stories/jesuit-special-studies-charting-paths-of-learned-ministry/)</p>
 
 
 </section>
@@ -252,8 +251,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -364,7 +361,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
