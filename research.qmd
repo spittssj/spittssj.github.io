@@ -5,6 +5,7 @@ resources:
   - "pdf/LatinAmericaCooperativesChapter.pdf"
   - "pdf/PittsSYPSep6.pdf"
   - "pdf/pittsresearchstatement.pdf"
+  - "pdf/PittsAppliedEconReview.pdf"
 ---
 My work is based on almost twenty years of experience working
 with Latin Americans: in the US, on the US/Mexico border, in southern Mexico,
@@ -42,7 +43,10 @@ It's All About Who You Know: Social Networks and Job Turnover in Mexico (with [L
 
 ## Catholic Social Teaching
 ### Working Papers
-Impact Evaluation Under the Banner of the Cross. 2018. [Open Access Version](https://scholarcommons.scu.edu/jst_dissertations/30/).
+Impact Evaluation Under the Banner of the Cross. Master's thesis. 2018. [Open Access Version](https://scholarcommons.scu.edu/jst_dissertations/30/).
 
-This was my thesis for the master of theology at the [Jesuit School of Theology](https://www.scu.edu/jst/),
-which I completed concurrently with my master's in economics from the [University of San Francisco](http://www.usf.edu).
+### Book Reviews
+"Review of 'Research Ethics in Applied Economics: A Practical Guide,'" [Faith & Economics 83](https://christianeconomists.org/faith-economics/articles/), Fall 2024. [Ungated Version](pdf/PittsAppliedEconReview.pdf).
+
+"Book Review: The Age of Sustainable Development, by Jeffrey Sachs," Conversations on Jesuit Higher
+Education: Vol. 49 , Sep 2016. Article 54. [Open Access Version](https://epublications.marquette.edu/cgi/viewcontent.cgi?article=2015&context=conversations).
