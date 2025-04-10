@@ -1,10 +1,48 @@
 ---
 title: "Fieldwork"
+resources:
+  - "images/casadelospobres_outside.jpg"
+  - "images/casadelospobres_inside.jpg"
+  - "images/sacred_heart_outside.jpg"
+  - "images/sacredheart_elpaso.jpg"
+  - "images/chiapas_presentresearchresults.jpg"
+  - "images/batsilmaya_plant.png"
 ---
 
+## Tijuana
+As a Jesuit novice, in spring 2008, I worked at the [Casa de los Pobres](https://casadelospobresusa.com/)
+in Tijuana, Baja California, Mexico. There I began to learn Spanish as I served food to migrants
+every day and listened to their stories. 
+
+::: {layout-ncol=2}
+![Casa de Los Pobres](images/casadelospobres_outside.jpg)
+
+![The Dining Room](images/casadelospobres_inside.jpg)
+:::
+
+
+### El Paso
+
+From 2018-2020, I was the Director of Religious Formation at [Sacred Heart Church](https://www.sacredheartelpaso.org/),
+which is four blocks from the US/Mexico border. A [recent article](https://texashighways.com/culture/the-church-at-the-heart-of-el-pasos-segundo-barrio/) gives
+more background about the Segundo Barrio Neighborhood.
+
+::: {layout-ncol=2}
+![Sacred Heart Church](images/sacred_heart_outside.jpg)
+
+![View from Mexican Side of Border](images/sacredheart_elpaso.jpg)
+:::
+
+## Chiapas
 Since 2017, I have worked with the [Capeltic](http://www.capeltic.org) 
 coffee cooperative in Chiapas, Mexico. We conducted two rounds of surveys
 described in [Datasets](datasets.html). 
+
+::: {layout-ncol=2}
+![Batsil Maya Coffee Plant](images/batsilmaya_plant.png)
+
+![Presenting Research Results](images/chiapas_presentresearchresults.jpg)
+:::
 
 Here are some 
 [Chiapas Fieldwork Photos](chiapas_fieldwork_photos.html) from
