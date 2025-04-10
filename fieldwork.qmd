@@ -9,7 +9,7 @@ resources:
   - "images/batsilmaya_plant.png"
 ---
 
-## Tijuana
+## Tijuana (Spring 2008)
 As a Jesuit novice, in spring 2008, I worked at the [Casa de los Pobres](https://casadelospobresusa.com/)
 in Tijuana, Baja California, Mexico. There I began to learn Spanish as I served food to migrants
 every day and listened to their stories. 
@@ -21,8 +21,7 @@ every day and listened to their stories.
 :::
 
 
-### El Paso
-
+### El Paso (2018-2020)
 From 2018-2020, I was the Director of Religious Formation at [Sacred Heart Church](https://www.sacredheartelpaso.org/),
 which is four blocks from the US/Mexico border. A [recent article](https://texashighways.com/culture/the-church-at-the-heart-of-el-pasos-segundo-barrio/) gives
 more background about the Segundo Barrio Neighborhood.
@@ -33,7 +32,7 @@ more background about the Segundo Barrio Neighborhood.
 ![View from Mexican Side of Border](images/sacredheart_elpaso.jpg)
 :::
 
-## Chiapas
+## Chiapas (2017-present)
 Since 2017, I have worked with the [Capeltic](http://www.capeltic.org) 
 coffee cooperative in Chiapas, Mexico. We conducted two rounds of surveys
 described in [Datasets](datasets.html). 
@@ -55,8 +54,4 @@ relationship with Capeltic.
 * [Initial story about visiting the coffee plant - July 2019](https://www.jesuitscentralsouthern.org/stories/capeltic-coffee-collaborative-turning-coffee-into-hope/)
 * [Recent visit to coffee plant - January 2024](https://ignatiansolidarity.net/blog/2024/03/06/coffee-catholic-social-teaching-delegation-visits-jesuit-supported-coffee-cooperative-in-mexico/)
 
-In addition, from 2018-2020, I worked as the Director of Religious Formation
-at [Sacred Heart Church](https://www.sacredheartelpaso.org/) in El Paso, TX,
-four blocks from the US/Mexico border. Here I got the idea for my second year paper.
-I hope to put up more information from this section soon. 
 
