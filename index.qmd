@@ -11,11 +11,11 @@ about:
     - text: GitHub
       href: https://github.com/spittssj/
     - text: Email
-      href: mailto:pitts071@umn.edu
+      href: mailto:stephen.pitts@marquette.edu
     - text: CV
-      href: pdf/PittsEconResumeMar2025.pdf
+      href: pdf/PittsEconResumeJuly2025.pdf
 resources:
-    - "pdf/PittsEconResumeMar2025.pdf"
+    - "pdf/PittsEconResumeJuly2025.pdf"
     - "pdf/pittsdeistatement.pdf"
     - "pdf/pittsteachingstatement.pdf"
     - "pdf/pittsresearchstatement.pdf"
@@ -24,12 +24,7 @@ resources:
 
 # Welcome
 
-Welcome to my website. I am a PhD candidate in the 
-[Department of Applied Economics](https://apec.umn.edu/) at the
-[University of Minnesota](https://www.umn.edu). My advisor is
-[Marc Bellemare](http://marcfbellemare.com/). 
-
-Beginning in Fall 2025, I will be the Wade Jesuit Visiting Assistant
+Welcome to my website. I am the Wade Jesuit Visiting Assistant
 Professor at the [Department of Economics](https://www.marquette.edu/business/economics/)
 of [Marquette University](http://www.marquette.edu). 
 
@@ -48,6 +43,10 @@ Another area of [my research](research.html) examines what happens
 when smallholder producers exit agriculture: the effect of
 government subsidies on internal migration and the role
 of worker referrals in the transition to the formal sector. 
+
+I hold a PhD in Applied Economics from the University of Minnesota
+and an MS in International and Development Economics from the University of 
+San Francisco.
 
 As a Jesuit priest-economist, I have recently been featured in Jesuit publications:
 
