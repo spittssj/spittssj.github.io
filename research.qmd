@@ -1,7 +1,7 @@
 ---
 title: "Research"
 resources:
-  - "pdf/ChiapasExperimentPaper_20241203.pdf"
+  - "pdf/ChiapasExperimentPaper_openaccess.pdf"
   - "pdf/LatinAmericaCooperativesChapter.pdf"
   - "pdf/PittsSYPSep6.pdf"
   - "pdf/pittsresearchstatement.pdf"
@@ -19,12 +19,14 @@ on my work as an economist in light of my own faith tradition.
 Here is my [research statement](pdf/pittsresearchstatement.pdf).
 
 ## Agricultural Value Chains
-### Working Papers
-Unpacking Side-Selling: Experimental Evidence from Rural Mexico (with [Chris Boyd Leon](https://www.chrismboyd.com/) and Grant Storer) | [Draft](pdf/ChiapasExperimentPaper_20241203.pdf). R&R at Agricultural Economics. 
+## Published Work
+Unpacking Side-Selling: Experimental Evidence from Rural Mexico (with [Chris Boyd Leon](https://www.chrismboyd.com/) and Grant Storer) | [Open Access Version](pdf/ChiapasExperimentPaper_openaccess.pdf). Forthcoming at *Agricultural Economics*. 
 
-### Work in Progress
+### Work in Progress (Drafts available on request)
 Information decay and technology adoption under risk
 (with Grant Storer and [Jesse Anttila-Hughes](https://sites.google.com/site/jesseanttilahughes/)).
+
+Sweet and Timely Income: The Effect of Honey Production in Reducing Food Insecurity of Coffee Producers (with Chris Boyd Leon, Grant Xavier Storer, Jessie Anttila-Hughes).
 
 ### Book Chapters
 The role of the farmer and their cooperative in supply chain governance: a Latin American small producer perspective. 2023. 
@@ -36,10 +38,13 @@ This article is a revised version of my master's thesis, which is available open
 
 ## Structural Transformation
 ### Work in Progress
-Where You Go Depends on Who you Know: The Effect of Social Networks on Mexican Internal Migration (with [Alejandro Estefan](https://sites.google.com/nd.edu/alejandroestefan/home)) | 
-[Very Old Draft](pdf/PittsSYPSep6.pdf).
+Where You Go Depends on Who you Know: The Effect of Social Networks on Mexican Internal Migration  | 
+[Second Year Paper](pdf/PittsSYPSep6.pdf).
 
-It's All About Who You Know: Social Networks and Job Turnover in Mexico (with [Lorenzo Aldeco](https://www.lorenzo-aldeco.com/)).
+The Role of Social Networks in Post-Displacement Outcomes (with [Lorenzo Aldeco](https://www.lorenzo-aldeco.com/) and Juan Pablo Arrendo). *Draft available upon request*.
+
+The Causal Impacts of Geographic Targetting on Local Poverty Reduction: Evidence from Mexico
+(with [Alejandro Estefan](https://sites.google.com/nd.edu/alejandroestefan/home)). *Draft soon*.
 
 ## Catholic Social Teaching
 ### Working Papers
