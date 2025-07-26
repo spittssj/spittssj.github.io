@@ -12,7 +12,7 @@ resources:
 I have extensive teaching experience at all levels. I taught high school students math, undergraduates and graduate students economics, and adult religious education. 
 [Teaching Statement](pdf/pittsteachingstatement.pdf) | [DEI Statement](pdf/pittsdeistatement.pdf)
 
-**Visiting Assistant Professor (2025-26)**
+**Visiting Assistant Professor (2025-26)**\
 Department of Economics, Marquette University\
 ECON 1103: Principles of Microeconomics\
 ECON 4073/5073: Development Economics
