@@ -2,6 +2,7 @@
 title: "Research"
 resources:
   - "pdf/ChiapasExperimentPaper_openaccess.pdf"
+  - "pdf/ChiapasNetworkPaper_20250817.pdf"
   - "pdf/LatinAmericaCooperativesChapter.pdf"
   - "pdf/PittsSYPSep6.pdf"
   - "pdf/pittsresearchstatement.pdf"
@@ -22,9 +23,9 @@ Here is my [research statement](pdf/pittsresearchstatement.pdf).
 ## Published Work
 Unpacking Side-Selling: Experimental Evidence from Rural Mexico (with [Chris Boyd Leon](https://www.chrismboyd.com/) and Grant Storer) | [Open Access Version](pdf/ChiapasExperimentPaper_openaccess.pdf). Forthcoming at *Agricultural Economics*. 
 
-### Work in Progress (Drafts available on request)
+### Work in Progress
 Information decay and technology adoption under risk
-(with Grant Storer and [Jesse Anttila-Hughes](https://sites.google.com/site/jesseanttilahughes/)).
+(with Grant Storer and [Jesse Anttila-Hughes](https://sites.google.com/site/jesseanttilahughes/)). [Working Paper](pdf/ChiapasNetworkPaper_20250817.pdf)
 
 Sweet and Timely Income: The Effect of Honey Production in Reducing Food Insecurity of Coffee Producers (with Chris Boyd Leon, Grant Xavier Storer, Jessie Anttila-Hughes).
 
