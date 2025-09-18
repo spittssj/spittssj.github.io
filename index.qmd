@@ -19,6 +19,8 @@ resources:
     - "pdf/pittsdeistatement.pdf"
     - "pdf/pittsteachingstatement.pdf"
     - "pdf/pittsresearchstatement.pdf"
+    - "pdf/PittsInterviewTrumpTariffs.pdf"
+    - "pdf/PittsShortTakeHyundaiRaid.pdf"
 
 ---
 
@@ -52,8 +54,9 @@ My job market paper [Unpacking Side-Selling: Experimental Evidence from Mexico](
 
 As a Jesuit priest-economist, I have recently been featured in Jesuit publications:
 
+* [The ICE raid on a Hyundai plant shows how hard it would be to quit globalization](https://www.americamagazine.org/short-take/2025/09/17/ice-raid-hyundai-plant-korean-globalization/). 9/18/25. [ungated version](pdf/PittsShortTakeHyundaiRaid.pdf).
 * [Jesuit Special Studies: Charting Paths of Learned Ministry](https://www.jesuitscentralsouthern.org/stories/jesuit-special-studies-charting-paths-of-learned-ministry/). 3/4/2025
-* [Catholic Social Teaching and Trump's Tariffs](https://www.americamagazine.org/politics-society/2025/03/03/trump-tariffs-catholic-social-teaching-250048). 3/3/2025
+* [Catholic Social Teaching and Trump's Tariffs](https://www.americamagazine.org/politics-society/2025/03/03/trump-tariffs-catholic-social-teaching-250048). 3/3/2025. [ungated version](pdf/PittsInterviewTrumpTariffs.pdf).
 
 Also, a book review of mine of [Research Ethics in Applied Economics](https://www.routledge.com/Research-Ethics-in-Applied-Economics-A-Practical-Guide/Josephson-Michler/p/book/9780367457419) was just published in [Faith & Economics 83](https://christianeconomists.org/faith-economics/articles/).
 You can read an [ungated version](pdf/PittsAppliedEconReview.pdf).
