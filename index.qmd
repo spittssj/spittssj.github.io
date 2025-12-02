@@ -13,7 +13,7 @@ about:
     - text: Email
       href: mailto:stephen.pitts@marquette.edu
     - text: CV
-      href: pdf/PittsEconResumeNov2025.pdf
+      href: pdf/PittsEconResumeDec2025.pdf
 resources:
     - "pdf/PittsEconResumeDec2025.pdf"
     - "pdf/pittsdeistatement.pdf"
