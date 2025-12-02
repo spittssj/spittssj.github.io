@@ -15,7 +15,7 @@ about:
     - text: CV
       href: pdf/PittsEconResumeNov2025.pdf
 resources:
-    - "pdf/PittsEconResumeNov2025.pdf"
+    - "pdf/PittsEconResumeDec2025.pdf"
     - "pdf/pittsdeistatement.pdf"
     - "pdf/pittsteachingstatement.pdf"
     - "pdf/pittsresearchstatement.pdf"
@@ -53,6 +53,7 @@ San Francisco.
 My job market paper [Unpacking Side-Selling: Experimental Evidence from Mexico](http://doi.org/10.1111/agec.70051) was recently published in *Agricultural Economics*. 
 
 As a Jesuit priest-economist, I have recently been featured in Jesuit and Catholic publications:
+
 * [Economists express concern about the poor as Supreme Court weighs tariffs]
 (www.osvnews.com/economists-express-concern-about-the-poor-as-supreme-court-weighs-trumps-tariffs/)
 * [The ICE raid on a Hyundai plant shows how hard it would be to quit globalization](https://www.americamagazine.org/short-take/2025/09/17/ice-raid-hyundai-plant-korean-globalization/). 9/18/25. [ungated version](pdf/PittsShortTakeHyundaiRaid.pdf).
