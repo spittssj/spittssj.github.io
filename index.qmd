@@ -63,6 +63,7 @@ Also, a book review of mine of [Research Ethics in Applied Economics](https://ww
 You can read an [ungated version](pdf/PittsAppliedEconReview.pdf).
 
 Finally, this spring I'll be at the following meetings:
+
 * [CSAE 2026](https://www.csae.ox.ac.uk/csae-conference-2026) in Oxford, 
 presenting "Information Decay and Cooperative Entry Under Risk"
 * SOLE sessions of the [MEA](https://mea.sites.grinnell.edu/annual-meetings/)
