@@ -1,10 +1,13 @@
-.Rproj.user
+# Quarto
+/.quarto/
+/_site/
+*.quarto_ipynb
+
+# R / RStudio
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
-.quarto/*
-/.quarto/
-*.DS_Store
 
-
-**/*.quarto_ipynb
+# macOS
+.DS_Store
