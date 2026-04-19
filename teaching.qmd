@@ -1,7 +1,10 @@
 ---
-title: "Teaching Experience"
+title: "Teaching"
 resources:
   - "pdf/pittsteachingstatement.pdf"
+  - "pdf/syllabus/PittsEcon1103_Spring2026.pdf"
+  - "pdf/syllabus/PittsEcon4047_Spring2026.pdf"
+  - "pdf/syllabus/PittsEcon5931_Spring2026.pdf"
   - "pdf/syllabus/apec3071spring2024.pdf"
   - "pdf/syllabus/apec1201fall2023.pdf"
   - "pdf/syllabus/SII_ScienceReligion_Fall2015.pdf"
@@ -9,36 +12,34 @@ resources:
   - "pdf/syllabus/SII_EpicStories_Spring2016.pdf"
 ---
 
-I have extensive teaching experience at all levels. I taught high school students math, undergraduates and graduate students economics, and adult religious education. 
-[Teaching Statement](pdf/pittsteachingstatement.pdf) | [DEI Statement](pdf/pittsdeistatement.pdf)
+I have taught math to high school students at [Jesuit College Prep of Dallas](http://www.jesuitdallas.org), economics to undergraduates and graduate students at the [University of Minnesota](https://twin-cities.umn.edu/) and [Marquette University](http://www.marquette.edu), and interdisciplinary seminars at USF's [St. Ignatius Institute](https://www.usfca.edu/st-ignatius).
+[Teaching Statement](pdf/pittsteachingstatement.pdf)
 
-**Visiting Assistant Professor (2025-26)**\
-Department of Economics, Marquette University\
-ECON 1103: Principles of Microeconomics\
-ECON 4073/5073: Development Economics
+### Visiting Assistant Professor (2025-26), Department of Economics, Marquette University
 
-**Adjunct Instructor (2023-24)**\
-Department of Applied Economics, University of Minnesota\
+ECON 1103: Principles of Microeconomics - Fall 2025, Spring 2026 - [Spring 2026 syllabus](pdf/syllabus/PittsEcon1103_Spring2026.pdf)\
+ECON 4047/5931: Development Economics - Spring 2026 - [undergrad syllabus](pdf/syllabus/PittsEcon4047_Spring2026.pdf) · [grad syllabus](pdf/syllabus/PittsEcon5931_Spring2026.pdf)
+
+### Adjunct Instructor (2023-24), Department of Applied Economics, University of Minnesota
+
 APEC 1201: Applications of Excel in Economics and Management - Fall 2023 - [syllabus](pdf/syllabus/apec1201fall2023.pdf)\
-APEC 3071: Microeconomics of International Development - Spring 2024
-[syllabus](pdf/syllabus/apec3071spring2024.pdf)
+APEC 3071: Microeconomics of International Development - Spring 2024 - [syllabus](pdf/syllabus/apec3071spring2024.pdf)
 
-**Teaching Assistant (2021-23)**\
-Department of Applied Economics, University of Minnesota\
+### Teaching Assistant (2021-23), Department of Applied Economics, University of Minnesota
+
 Econometric Analysis (I/II) - PhD Level - Fall 2021, Fall 2022\
 Econometric Analysis (III/IV) - PhD Level - Spring 2023\
 Principles of Microeconomics - Undergraduate - Spring 2022
 
-**Adjunct Instructor (2015-16)**\
-St. Ignatius Institute, University of San Francisco\
+### Adjunct Instructor (2015-16), St. Ignatius Institute, University of San Francisco
+
 Intimacy in a Virtual World (Spring 2015) [syllabus](pdf/syllabus/SII_IntimacyVirtualWorld_Spring2015.pdf)\
 Science and Religion (Fall 2015) - [syllabus](pdf/syllabus/SII_ScienceReligion_Fall2015.pdf)\
 Epic Stories (Spring 2016) - [syllabus](pdf/syllabus/SII_EpicStories_Spring2016.pdf)
 
-**Full-time Faculty (2011-14)**\
-Department of Mathematics, [Jesuit College Prep of Dallas](http://www.jesuitdallas.org)\
+### Faculty (2011-14), Department of Mathematics, Jesuit College Prep of Dallas
+
 Algebra I\
 Algebra II\
 Honors Geometry\
-Honors Precalculus\
----
+Honors Precalculus

@@ -1,9 +1,17 @@
 ---
-title: "Data Sets"
+title: "Datasets"
 ---
 
+This page lists data and code I have made publicly available.
+
+## Replication packages
+
+The [replication package](https://github.com/spittssj/ChiapasExperimentReplication) for *Unpacking Side-Selling: Experimental Evidence from Rural Mexico* (with Chris M. Boyd and Grant X. Storer; *Agricultural Economics*, 2025) contains participant-level data from a lab-in-the-field experiment with 268 indigenous coffee producers in Chiapas, along with the R analysis code and a README with variable definitions.
+
+## Survey data
+
 From 2017-18, I conducted household surveys in the seven municipality
-region in northeast Chiapas where the indigenous Tseltal people live. 
+region in northeast Chiapas where the indigenous Tseltal people live.
 I used these surveys in my 
 [USF master's thesis](https://repository.usfca.edu/thes/1079/). 
 

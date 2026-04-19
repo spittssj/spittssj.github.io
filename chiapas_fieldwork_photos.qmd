@@ -4,7 +4,7 @@ lightbox: true
 ---
 
 Here are some pictures from fieldwork in Chiapas in summer 2022. This fieldwork
-is the basis for two of the papers in the [Work in Progress](workinprogress.html) section.
+is the basis for two of the papers described in my [research](research.html).
 
 ::: {layout="[[1, 1, 1], [1, 1, 1], [1, 1, 1], [1, 1, 1], [1, 1, 1]]"}
 ![Grant preparing the tablets.](images/chiapas_photos/Picture1.png){group="chiapas_fieldwork_gallery"}

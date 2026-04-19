@@ -2,6 +2,8 @@ project:
   type: website
   output-dir: docs
   resources: pdf/*.pdf
+  render:
+    - "*.qmd"
 
 website:
   title: "Stephen Pitts SJ"
@@ -9,12 +11,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - research.qmd
-      - datasets.qmd
-      - teaching.qmd 
-      - education.qmd 
-      - fieldwork.qmd
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: datasets.qmd
+        text: Datasets
+      - href: community.qmd
+        text: Community
 
 format:
   html:

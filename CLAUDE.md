@@ -24,3 +24,7 @@ Stephen Pitts SJ's personal academic website, built with [Quarto](https://quarto
 
 - Internal links between pages use the rendered `.html` name (e.g. `research.html`), not `.qmd`.
 - CV / resume filenames are dated (e.g. `PittsEconResumeApr2026.pdf`). When a new dated CV is dropped into `pdf/`, update the `href` and `resources:` entry in `index.qmd` (and any other page that links to the CV) to point at the new filename — old references to the previous month's file will 404.
+
+## Outstanding work
+
+See [`TODO.md`](TODO.md) for the running list of website improvements (deferred polish items, summer projects, content additions to make as research develops).

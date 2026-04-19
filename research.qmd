@@ -2,57 +2,53 @@
 title: "Research"
 resources:
   - "pdf/ChiapasExperimentPaper_openaccess.pdf"
-  - "pdf/ChiapasNetworkPaper_20250817.pdf"
+  - "pdf/ChiapasNetworkPaper_20260306.pdf"
+  - "pdf/ChiapasHoneyPaper_20240718.pdf"
   - "pdf/LatinAmericaCooperativesChapter.pdf"
   - "pdf/PittsSYPSep6.pdf"
-  - "pdf/pittsresearchstatement.pdf"
   - "pdf/PittsAppliedEconReview.pdf"
+  - "pdf/PittsSocialNetworksSlides_20260501.pdf"
+  - "pdf/PittsInformationDecaySlides_20260306.pdf"
 ---
-My work is based on almost twenty years of experience working
-with Latin Americans: in the US, on the US/Mexico border, in southern Mexico,
-and in northern Peru. The work on agricultural value chains is based
-mainly on [fieldwork](fieldwork.html) in Chiapas. The work on structural transformation
-is based on harmonized data from the Mexico census that I obtained from [IPUMS](https://international.ipums.org/international/)
-and confidental employer-employee data from the [EconLab](https://www.banxico.org.mx/EconLab/inicio)
-at the Bank of Mexico. The work on Catholic Social Teaching has come from reflecting
-on my work as an economist in light of my own faith tradition. 
 
-Here is my [research statement](pdf/pittsresearchstatement.pdf).
+My research studies two sets of decisions that shape economic mobility in Latin America: how smallholder farmers engage with agricultural markets, and how workers build pathways into formal-sector employment. This work comes from 20 years of experience working with Latin Americans: in the US, on the US/Mexico border, in southern Mexico, and in northern Peru. It seeks to influence not only the academy but also policy to improve the lives of people across the region.
 
-## Agricultural Value Chains
-## Published Work
-Unpacking Side-Selling: Experimental Evidence from Rural Mexico (with [Chris Boyd Leon](https://www.chrismboyd.com/) and Grant Storer) | [Open Access Version](pdf/ChiapasExperimentPaper_openaccess.pdf). Forthcoming at *Agricultural Economics*. 
+## Agricultural value chains
 
-### Work in Progress
-Information decay and technology adoption under risk
-(with Grant Storer and [Jesse Anttila-Hughes](https://sites.google.com/site/jesseanttilahughes/)). [Working Paper](pdf/ChiapasNetworkPaper_20250817.pdf)
+One strand of my work examines the market-access, contracting, and information frictions that determine which smallholders thrive. Southern Mexico offers a setting in which these frictions can be observed and measured: indigenous coffee producers, organized into agricultural cooperatives of varying strength, sell into global value chains that repeatedly break and reform around them. Through [fieldwork](community.html) in Chiapas, I study who joins cooperatives, how membership shapes household welfare, and what happens when those relationships break down. The work below uses a household survey and lab-in-the-field experiment that our team collected and administrative data from the coffee cooperative spanning over 20 years of producer records and geolocated coffee parcels. The work is supported by the [Center for International Food and Agricultural Policy](https://experts.umn.edu/en/organisations/center-for-international-food-and-agricultural-policy) at the University of Minnesota and the [Ralph K Morris Foundation](https://www.ralphkmorrisfoundation.org/).
 
-Sweet and Timely Income: The Effect of Honey Production in Reducing Food Insecurity of Coffee Producers (with Chris Boyd Leon, Grant Xavier Storer, Jessie Anttila-Hughes).
+### Published
+Unpacking Side-Selling: Experimental Evidence from Rural Mexico (with Chris M. Boyd and Grant X. Storer). *Agricultural Economics*, 2025. [Journal version](http://doi.org/10.1111/agec.70051) · [Open-access PDF](pdf/ChiapasExperimentPaper_openaccess.pdf) · [Replication](https://github.com/spittssj/ChiapasExperimentReplication)
 
-### Book Chapters
-The role of the farmer and their cooperative in supply chain governance: a Latin American small producer perspective. 2023. 
-*[Handbook of Research on Cooperatives and Mutuals](https://www.elgaronline.com/edcollbook/book/9781802202618/9781802202618.xml)* | [Ungated Version](pdf/LatinAmericaCooperativesChapter.pdf)
+### Working papers
+Information Decay and Cooperative Entry Under Risk (with Grant X. Storer and Jesse Anttila-Hughes). [PDF](pdf/ChiapasNetworkPaper_20260306.pdf) | [Slides](pdf/PittsInformationDecaySlides_20260306.pdf)
 
-Value Chain Integration as an Alternative to Fair Trade for Chiapas Coffee Farmers. 2019. *[Entrepreneurship and Development in the 21st Century](https://www.emerald.com/insight/content/doi/10.1108/978-1-78973-233-720191007/full/html)*. 
+Sweet and Timely Income: The Effect of Honey Production in Reducing Food Insecurity of Coffee Producers (with Chris M. Boyd, Grant X. Storer, and Jesse Anttila-Hughes). [PDF](pdf/ChiapasHoneyPaper_20240718.pdf)
 
-This article is a revised version of my master's thesis, which is available open access from the [USF thesis repository](https://repository.usfca.edu/thes/1079/).
+### Book chapters
+The Role of the Farmer and Their Cooperative in Supply Chain Governance: A Latin American Small Producer Perspective. 2023. *[Handbook of Research on Cooperatives and Mutuals](https://www.elgaronline.com/edcollbook/book/9781802202618/9781802202618.xml)* | [Ungated version](pdf/LatinAmericaCooperativesChapter.pdf)
 
-## Structural Transformation
-### Work in Progress
-Where You Go Depends on Who you Know: The Effect of Social Networks on Mexican Internal Migration  | 
-[Second Year Paper](pdf/PittsSYPSep6.pdf).
+Value Chain Integration as an Alternative to Fair Trade for Chiapas Coffee Farmers. 2019. *[Entrepreneurship and Development in the 21st Century](https://www.emerald.com/insight/content/doi/10.1108/978-1-78973-233-720191007/full/html)*. A revised version of my master's thesis, available open access from the [USF thesis repository](https://repository.usfca.edu/thes/1079/).
 
-The Role of Social Networks in Post-Displacement Outcomes (with [Lorenzo Aldeco](https://www.lorenzo-aldeco.com/) and Juan Pablo Arrendo). *Draft available upon request*.
+## Pathways into formal-sector employment
 
-The Causal Impacts of Geographic Targetting on Local Poverty Reduction: Evidence from Mexico
-(with [Alejandro Estefan](https://sites.google.com/nd.edu/alejandroestefan/home)). *Draft soon*.
+A second strand examines the pathways workers take into formal-sector employment. Three mechanisms matter: government subsidies that shape internal migration out of agriculture, worker referrals that mediate entry into formal jobs, and vocational training that builds the socio-emotional skills that formal employers value. I work with harmonized Mexican census data from [IPUMS](https://international.ipums.org/international/) and confidential employer-employee data from the [EconLab](https://www.banxico.org.mx/EconLab/inicio) at the Bank of Mexico, and I am launching a new project in Peru on vocational training schools.
+
+### Working papers
+The Role of Social Networks in Post-Displacement Outcomes (with Juan Pablo Arrendondo Ambriz and [Lorenzo Aldeco Leo](https://www.lorenzo-aldeco.com/)). *Draft available upon request.* | [Slides](pdf/PittsSocialNetworksSlides_20260501.pdf)
+
+Where You Go Depends on Who You Know: Social Networks as Determinants of Mexican Internal Migration. Second year paper. [PDF](pdf/PittsSYPSep6.pdf)
+
+The Causal Impacts of Geographic Targeting on Local Poverty Reduction: Evidence from Mexico (with [Alejandro Estefan](https://sites.google.com/nd.edu/alejandroestefan/home)). *Draft soon.*
 
 ## Catholic Social Teaching
-### Working Papers
-Impact Evaluation Under the Banner of the Cross. Master's thesis. 2018. [Open Access Version](https://scholarcommons.scu.edu/jst_dissertations/30/).
 
-### Book Reviews
-"Review of 'Research Ethics in Applied Economics: A Practical Guide,'" [Faith & Economics 83](https://christianeconomists.org/faith-economics/articles/), Fall 2024. [Ungated Version](pdf/PittsAppliedEconReview.pdf).
+A third thread of my work reflects on economics through the lens of my own Jesuit tradition. As a priest-economist, I engage with how Catholic Social Teaching bears on questions of poverty, development, and economic ethics.
 
-"Book Review: The Age of Sustainable Development, by Jeffrey Sachs," Conversations on Jesuit Higher
-Education: Vol. 49 , Sep 2016. Article 54. [Open Access Version](https://epublications.marquette.edu/cgi/viewcontent.cgi?article=2015&context=conversations).
+### Working papers
+Impact Evaluation Under the Banner of the Cross. Master's thesis. 2018. [Open-access version](https://scholarcommons.scu.edu/jst_dissertations/30/).
+
+### Book reviews
+"Review of *Research Ethics in Applied Economics: A Practical Guide*." [Faith & Economics 83](https://christianeconomists.org/faith-economics/articles/), Fall 2024. [Ungated version](pdf/PittsAppliedEconReview.pdf).
+
+"Book Review: *The Age of Sustainable Development*, by Jeffrey Sachs." Conversations on Jesuit Higher Education, Vol. 49, Sep 2016, Article 54. [Open-access version](https://epublications.marquette.edu/cgi/viewcontent.cgi?article=2015&context=conversations).

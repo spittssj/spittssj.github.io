@@ -1,13 +1,15 @@
 ---
 title: "Stephen Pitts SJ"
 image: images/umn_headshot.jpg
-about: 
+about:
   template: trestles
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/stephen-pitts-1056835a
     - text: Google Scholar
       href: https://scholar.google.com/citations?user=b3XZgEAAAAAJ&hl=en
+    - text: ORCID
+      href: https://orcid.org/0000-0001-8273-6991
     - text: GitHub
       href: https://github.com/spittssj/
     - text: Email
@@ -16,45 +18,51 @@ about:
       href: pdf/PittsEconResumeApr2026.pdf
 resources:
     - "pdf/PittsEconResumeApr2026.pdf"
-    - "pdf/pittsdeistatement.pdf"
     - "pdf/pittsteachingstatement.pdf"
-    - "pdf/pittsresearchstatement.pdf"
     - "pdf/PittsInterviewTrumpTariffs.pdf"
     - "pdf/PittsShortTakeHyundaiRaid.pdf"
-
+    - "pdf/ChiapasExperimentPaper_openaccess.pdf"
+    - "pdf/ChiapasNetworkPaper_20260306.pdf"
+    - "pdf/ChiapasHoneyPaper_20240718.pdf"
+    - "pdf/PittsSYPSep6.pdf"
+    - "pdf/PittsAppliedEconReview.pdf"
+    - "pdf/PittsSocialNetworksSlides_20260501.pdf"
+    - "pdf/PittsInformationDecaySlides_20260306.pdf"
 ---
 
-# Welcome
+Welcome to my website. I am an applied development microeconomist who works on agriculture and labor in Latin America.
 
-Welcome to my website. I am the Wade Jesuit Visiting Assistant
-Professor at the [Department of Economics](https://www.marquette.edu/business/economics/)
-of [Marquette University](http://www.marquette.edu). 
+I currently serve as the [Wade Jesuit Visiting Assistant Professor](https://www.marquette.edu/provost/wade-chair.php) at the [Department of Economics](https://www.marquette.edu/business/economics/) of Marquette University. I am also an affiliate of the [Collaborative for Econometrics and Integrated Development Studies (CEIDS)](https://kellogg.nd.edu/ceids-notre-dame) at Notre Dame's Kellogg Institute for International Studies.
 
-One area of [my research](research.html) examines smallholder 
-producers in Latin America and the agricultural cooperatives that 
-improve their relationships to agricultural value chains.
+I hold a PhD in [Applied Economics](https://apec.umn.edu/) from the University of Minnesota and an MS in [International and Development Economics](https://www.usfca.edu/arts-sciences/programs/graduate/international-development-economics) from the University of San Francisco.
 
-I use a variety of techniques
--- a household survey, lab-in-the-field experiment, 
-administrative data, and geospatial data --
-to answer questions about which producers join cooperatives,
-how cooperatives improve their livelihood, and what happens when cooperative
-relationships break down.
+[My research](research.html) studies two sets of decisions that shape economic mobility in Latin America: how smallholder farmers engage with agricultural markets, and how workers build pathways into formal-sector employment.
 
-Another area of [my research](research.html) examines what happens
-when smallholder producers exit agriculture: the effect of
-government subsidies on internal migration and the role
-of worker referrals in the transition to the formal sector. 
+I use a variety of quasi-experimental and experimental research designs, including network methods, randomized controlled trials, and lab-in-the-field experiments, with data from original household surveys, large-scale administrative data sets, and geospatial sources. I partner with a variety of organizations, such as [Capeltic](https://www.capeltic.org/), a coffee cooperative in rural Mexico; [Fe y Alegría Perú](https://feyalegria.org.pe/), a network of schools; and the [EconLab](https://www.banxico.org.mx/EconLab/inicio) at the Banco de México.
 
-I hold a PhD in Applied Economics from the University of Minnesota
-and an MS in International and Development Economics from the University of 
-San Francisco.
+My work comes from 20 years of [experience on the US/Mexico border and in Latin America](community.html) and seeks to influence not only the academy but also policy to improve the lives of people across the region.
 
-My job market paper [Unpacking Side-Selling: Experimental Evidence from Mexico](http://doi.org/10.1111/agec.70051) was recently published in *Agricultural Economics*. 
+## Recent papers
+
+### Published
+
+**Unpacking Side-Selling: Experimental Evidence from Rural Mexico** (with [Chris M. Boyd](https://www.chrismboyd.com/) and Grant X. Storer). *Agricultural Economics*, 2025. [Journal version](http://doi.org/10.1111/agec.70051) · [Open-access PDF](pdf/ChiapasExperimentPaper_openaccess.pdf) · [Replication](https://github.com/spittssj/ChiapasExperimentReplication)
+
+### Working papers
+
+**Information Decay and Cooperative Entry Under Risk** (with Grant X. Storer and [Jesse Anttila-Hughes](https://sites.google.com/site/jesseanttilahughes/)). [PDF](pdf/ChiapasNetworkPaper_20260306.pdf) | [Slides](pdf/PittsInformationDecaySlides_20260306.pdf)
+
+**The Role of Social Networks in Post-Displacement Outcomes** (with Juan Pablo Arrendondo Ambriz and [Lorenzo Aldeco Leo](https://www.lorenzo-aldeco.com/)). *Draft available upon request.* | [Slides](pdf/PittsSocialNetworksSlides_20260501.pdf)
+
+**Sweet and Timely Income: The Effect of Honey Production in Reducing Food Insecurity of Coffee Producers** (with Chris M. Boyd, Grant X. Storer, and Jesse Anttila-Hughes). [PDF](pdf/ChiapasHoneyPaper_20240718.pdf)
+
+**Where You Go Depends on Who You Know: Social Networks as Determinants of Mexican Internal Migration**. Second year paper. [PDF](pdf/PittsSYPSep6.pdf)
+
+## In the news
 
 As a Jesuit priest-economist, I have recently been featured in Jesuit and Catholic publications:
 
-* [Economists express concern about the poor as Supreme Court weighs tariffs](http://www.osvnews.com/economists-express-concern-about-the-poor-as-supreme-court-weighs-trumps-tariffs/). 11/7/25. 
+* [Economists express concern about the poor as Supreme Court weighs tariffs](http://www.osvnews.com/economists-express-concern-about-the-poor-as-supreme-court-weighs-trumps-tariffs/). 11/7/25.
 * [The ICE raid on a Hyundai plant shows how hard it would be to quit globalization](https://www.americamagazine.org/short-take/2025/09/17/ice-raid-hyundai-plant-korean-globalization/). 9/18/25. [ungated version](pdf/PittsShortTakeHyundaiRaid.pdf).
 * [Jesuit Special Studies: Charting Paths of Learned Ministry](https://www.jesuitscentralsouthern.org/stories/jesuit-special-studies-charting-paths-of-learned-ministry/). 3/4/2025
 * [Catholic Social Teaching and Trump's Tariffs](https://www.americamagazine.org/politics-society/2025/03/03/trump-tariffs-catholic-social-teaching-250048). 3/3/2025. [ungated version](pdf/PittsInterviewTrumpTariffs.pdf).
@@ -62,8 +70,8 @@ As a Jesuit priest-economist, I have recently been featured in Jesuit and Cathol
 Also, a book review of mine of [Research Ethics in Applied Economics](https://www.routledge.com/Research-Ethics-in-Applied-Economics-A-Practical-Guide/Josephson-Michler/p/book/9780367457419) was just published in [Faith & Economics 83](https://christianeconomists.org/faith-economics/articles/).
 You can read an [ungated version](pdf/PittsAppliedEconReview.pdf).
 
-Finally, I'll be at the following upcoming meetings:
+## Upcoming talks
 
-* [Colorado State University](https://economics.colostate.edu/events/seminar-speaker-stephen-pitts/) on May 1, 2026, presenting "The Role of Social Networks in Post-Displacement Outcomes"
+* [Colorado State University Economics Seminar](https://economics.colostate.edu/events/seminar-speaker-stephen-pitts/) on May 1, 2026, presenting "The Role of Social Networks in Post-Displacement Outcomes"
 * [TEC-Monterrey](https://studyinmexico.tec.mx/es/campus-ciudad-de-mexico) (Mexico City) on May 15, 2026, presenting "The Role of Social Networks in Post-Displacement Outcomes"
 * [AAEA Annual Meeting](https://www.aaea.org/meetings/2026-aaea-annual-meeting) in Kansas City, July 26-28, 2026, presenting "The Role of Social Networks in Post-Displacement Outcomes" and "Information Decay and Cooperative Entry Under Risk"
