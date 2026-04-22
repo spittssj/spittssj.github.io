@@ -27,7 +27,7 @@ resources:
     - "pdf/PittsSYPSep6.pdf"
     - "pdf/PittsAppliedEconReview.pdf"
     - "pdf/PittsSocialNetworksSlides_20260501.pdf"
-    - "pdf/PittsInformationDecaySlides_20260306.pdf"
+    - "pdf/PittsInformationDecaySlides_20260515.pdf"
 ---
 
 Welcome to my website. I am an applied development microeconomist who works on agriculture and labor in Latin America.
@@ -50,7 +50,7 @@ My work comes from 20 years of [experience on the US/Mexico border and in Latin 
 
 ### Working papers
 
-**Information Decay and Cooperative Entry Under Risk** (with Grant X. Storer and [Jesse Anttila-Hughes](https://sites.google.com/site/jesseanttilahughes/)). [PDF](pdf/ChiapasNetworkPaper_20260306.pdf) | [Slides](pdf/PittsInformationDecaySlides_20260306.pdf)
+**Information Decay and Cooperative Entry Under Risk** (with Grant X. Storer and [Jesse Anttila-Hughes](https://sites.google.com/site/jesseanttilahughes/)). [PDF](pdf/ChiapasNetworkPaper_20260306.pdf) | [Slides](pdf/PittsInformationDecaySlides_20260515.pdf)
 
 **The Role of Social Networks in Post-Displacement Outcomes** (with Juan Pablo Arrendondo Ambriz and [Lorenzo Aldeco Leo](https://www.lorenzo-aldeco.com/)). *Draft available upon request.* | [Slides](pdf/PittsSocialNetworksSlides_20260501.pdf)
 
@@ -73,5 +73,5 @@ You can read an [ungated version](pdf/PittsAppliedEconReview.pdf).
 ## Upcoming talks
 
 * [Colorado State University Economics Seminar](https://economics.colostate.edu/events/seminar-speaker-stephen-pitts/) on May 1, 2026, presenting "The Role of Social Networks in Post-Displacement Outcomes"
-* [TEC-Monterrey](https://studyinmexico.tec.mx/es/campus-ciudad-de-mexico) (Mexico City) on May 15, 2026, presenting "The Role of Social Networks in Post-Displacement Outcomes"
+* [Tec de Monterrey](https://studyinmexico.tec.mx/es/campus-ciudad-de-mexico) (Mexico City) on May 15, 2026, presenting "Information Decay and Cooperative Entry Under Risk"
 * [AAEA Annual Meeting](https://www.aaea.org/meetings/2026-aaea-annual-meeting) in Kansas City, July 26-28, 2026, presenting "The Role of Social Networks in Post-Displacement Outcomes" and "Information Decay and Cooperative Entry Under Risk"

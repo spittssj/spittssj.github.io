@@ -8,7 +8,7 @@ resources:
   - "pdf/PittsSYPSep6.pdf"
   - "pdf/PittsAppliedEconReview.pdf"
   - "pdf/PittsSocialNetworksSlides_20260501.pdf"
-  - "pdf/PittsInformationDecaySlides_20260306.pdf"
+  - "pdf/PittsInformationDecaySlides_20260515.pdf"
 ---
 
 My research studies two sets of decisions that shape economic mobility in Latin America: how smallholder farmers engage with agricultural markets, and how workers build pathways into formal-sector employment. This work comes from 20 years of experience working with Latin Americans: in the US, on the US/Mexico border, in southern Mexico, and in northern Peru. It seeks to influence not only the academy but also policy to improve the lives of people across the region.
@@ -21,7 +21,7 @@ One strand of my work examines the market-access, contracting, and information f
 Unpacking Side-Selling: Experimental Evidence from Rural Mexico (with Chris M. Boyd and Grant X. Storer). *Agricultural Economics*, 2025. [Journal version](http://doi.org/10.1111/agec.70051) · [Open-access PDF](pdf/ChiapasExperimentPaper_openaccess.pdf) · [Replication](https://github.com/spittssj/ChiapasExperimentReplication)
 
 ### Working papers
-Information Decay and Cooperative Entry Under Risk (with Grant X. Storer and Jesse Anttila-Hughes). [PDF](pdf/ChiapasNetworkPaper_20260306.pdf) | [Slides](pdf/PittsInformationDecaySlides_20260306.pdf)
+Information Decay and Cooperative Entry Under Risk (with Grant X. Storer and Jesse Anttila-Hughes). [PDF](pdf/ChiapasNetworkPaper_20260306.pdf) | [Slides](pdf/PittsInformationDecaySlides_20260515.pdf)
 
 Sweet and Timely Income: The Effect of Honey Production in Reducing Food Insecurity of Coffee Producers (with Chris M. Boyd, Grant X. Storer, and Jesse Anttila-Hughes). [PDF](pdf/ChiapasHoneyPaper_20240718.pdf)
 
