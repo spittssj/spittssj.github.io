@@ -15,9 +15,9 @@ about:
     - text: Email
       href: mailto:stephen.pitts@marquette.edu
     - text: CV
-      href: pdf/PittsCV_May2026.pdf
+      href: pdf/PittsCV_Jun2026.pdf
 resources:
-    - "pdf/PittsCV_May2026.pdf"
+    - "pdf/PittsCV_Jun2026.pdf"
     - "pdf/pittsteachingstatement.pdf"
     - "pdf/PittsInterviewTrumpTariffs.pdf"
     - "pdf/PittsShortTakeHyundaiRaid.pdf"
