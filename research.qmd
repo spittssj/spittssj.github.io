@@ -35,11 +35,14 @@ Value Chain Integration as an Alternative to Fair Trade for Chiapas Coffee Farme
 A second strand examines the pathways workers take into formal-sector employment. Three mechanisms matter: government subsidies that shape internal migration out of agriculture, worker referrals that mediate entry into formal jobs, and vocational training that builds the socio-emotional skills that formal employers value. I work with harmonized Mexican census data from [IPUMS](https://international.ipums.org/international/) and confidential employer-employee data from the [EconLab](https://www.banxico.org.mx/EconLab/inicio) at the Bank of Mexico, and I am launching a new project in Peru on vocational training schools.
 
 ### Working papers
-The Role of Social Networks in Post-Displacement Outcomes (with Juan Pablo Arrendondo Ambriz and [Lorenzo Aldeco Leo](https://www.lorenzo-aldeco.com/)). *Draft available upon request.* | [Slides](pdf/PittsSocialNetworksSlides_20260501.pdf)
+The Role of Social Networks in Post-Displacement Outcomes (with Juan Pablo Arrendondo Ambriz and [Lorenzo Aldeco Leo](https://www.lorenzo-aldeco.com/)). *Revising.* | [Slides](pdf/PittsSocialNetworksSlides_20260501.pdf)
 
 Where You Go Depends on Who You Know: Social Networks as Determinants of Mexican Internal Migration. Second year paper. [PDF](pdf/PittsSYPSep6.pdf)
 
-The Causal Impacts of Geographic Targeting on Local Poverty Reduction: Evidence from Mexico (with [Alejandro Estefan](https://sites.google.com/nd.edu/alejandroestefan/home)). *Draft soon.*
+### Research in progress
+The Causal Impacts of Geographic Targeting on Local Poverty Reduction: Evidence from Mexico (with [Alejandro Estefan](https://sites.google.com/nd.edu/alejandroestefan/home)). *Data analysis in progress.*
+
+Socio-Emotional Skills in Peruvian Technical Education (with Paul Glewwe and Gabe Velez). *Research design in progress.*
 
 ## Catholic Social Teaching
 

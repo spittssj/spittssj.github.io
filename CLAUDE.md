@@ -23,7 +23,7 @@ Stephen Pitts SJ's personal academic website, built with [Quarto](https://quarto
 ## Content conventions
 
 - Internal links between pages use the rendered `.html` name (e.g. `research.html`), not `.qmd`.
-- CV / resume filenames are dated (e.g. `PittsEconResumeApr2026.pdf`). When a new dated CV is dropped into `pdf/`, update the `href` and `resources:` entry in `index.qmd` (and any other page that links to the CV) to point at the new filename — old references to the previous month's file will 404.
+- CV filenames are dated, `PittsCV_<Mon>YYYY.pdf` (e.g. `PittsCV_May2026.pdf`). (Older versions used a `PittsEconResume<Mon>YYYY.pdf` "resume" name — that convention is retired; use "CV".) When a new dated CV is dropped into `pdf/`, update the `href` and `resources:` entry in `index.qmd` (and any other page that links to the CV) to point at the new filename — old references to the previous month's file will 404.
 
 ## How to update
 
@@ -60,9 +60,13 @@ Remove past entries once they're no longer upcoming. The CV's "Invited Professio
 
 ### New CV
 
-1. Drop the new PDF into `pdf/PittsEconResume<Mon>YYYY.pdf`.
+The CV source lives in a separate repo, `~/Code/PittsCV` (LaTeX). Recompile
+there (`latexmk -pdf cv-classic.tex`) to produce `cv-classic.pdf`, then:
+
+1. Copy `cv-classic.pdf` into `pdf/PittsCV_<Mon>YYYY.pdf` (the month/year you publish).
 2. Update the `href:` and `resources:` entries in `index.qmd` to point at the new filename.
-3. Delete the prior dated CV from `pdf/`.
+3. Delete the prior dated CV from both `pdf/` and `docs/pdf/`.
+4. `quarto render`, then commit and push (push only with the owner's OK).
 
 ### New media coverage
 
