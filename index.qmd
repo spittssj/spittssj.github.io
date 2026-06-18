@@ -22,7 +22,7 @@ resources:
     - "pdf/PittsInterviewTrumpTariffs.pdf"
     - "pdf/PittsShortTakeHyundaiRaid.pdf"
     - "pdf/ChiapasExperimentPaper_openaccess.pdf"
-    - "pdf/ChiapasNetworkPaper_20260306.pdf"
+    - "pdf/ChiapasNetworkPaper_20260619.pdf"
     - "pdf/ChiapasHoneyPaper_20240718.pdf"
     - "pdf/PittsSYPSep6.pdf"
     - "pdf/PittsAppliedEconReview.pdf"
@@ -50,7 +50,7 @@ My work comes from 20 years of [experience on the US/Mexico border and in Latin 
 
 ### Working papers
 
-**Information Decay and Cooperative Entry Under Risk** (with Grant X. Storer and [Jesse Anttila-Hughes](https://sites.google.com/site/jesseanttilahughes/)). [PDF](pdf/ChiapasNetworkPaper_20260306.pdf) | [Slides](pdf/PittsInformationDecaySlides_20260515.pdf)
+**Information Decay and Cooperative Entry Under Risk** (with Grant X. Storer and [Jesse Anttila-Hughes](https://sites.google.com/site/jesseanttilahughes/)). [PDF](pdf/ChiapasNetworkPaper_20260619.pdf) | [Slides](pdf/PittsInformationDecaySlides_20260515.pdf)
 
 **The Role of Social Networks in Post-Displacement Outcomes** (with Juan Pablo Arrendondo Ambriz and [Lorenzo Aldeco Leo](https://www.lorenzo-aldeco.com/)). *Revising.* | [Slides](pdf/PittsSocialNetworksSlides_20260501.pdf)
 
