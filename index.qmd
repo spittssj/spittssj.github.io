@@ -27,7 +27,7 @@ resources:
     - "pdf/PittsSYPSep6.pdf"
     - "pdf/PittsAppliedEconReview.pdf"
     - "pdf/PittsSocialNetworksSlides_20260501.pdf"
-    - "pdf/PittsInformationDecaySlides_20260515.pdf"
+    - "pdf/PittsPartialAdaptationSlides_20260727.pdf"
 ---
 
 Welcome to my website. I am an applied development microeconomist who works on agriculture and labor in Latin America.
@@ -50,9 +50,9 @@ My work comes from 20 years of [experience on the US/Mexico border and in Latin 
 
 ### Working papers
 
-**Information Decay and Cooperative Entry Under Risk** (with Grant X. Storer and [Jesse Anttila-Hughes](https://sites.google.com/site/jesseanttilahughes/)). [PDF](pdf/ChiapasNetworkPaper_20260619.pdf) | [Slides](pdf/PittsInformationDecaySlides_20260515.pdf)
+**Cooperative Membership as Partial Climate Adaptation: Transitory Withdrawal and Permanent Exit** (with Grant X. Storer and [Jesse Anttila-Hughes](https://sites.google.com/site/jesseanttilahughes/)). [PDF](pdf/ChiapasNetworkPaper_20260619.pdf) | [Slides](pdf/PittsPartialAdaptationSlides_20260727.pdf)
 
-**The Role of Social Networks in Post-Displacement Outcomes** (with Juan Pablo Arrendondo Ambriz and [Lorenzo Aldeco Leo](https://www.lorenzo-aldeco.com/)). *Revising.* | [Slides](pdf/PittsSocialNetworksSlides_20260501.pdf)
+**Coworker Networks and Labor Misallocation** (with [Lorenzo Aldeco Leo](https://www.lorenzo-aldeco.com/) and Juan Pablo Arredondo Ambriz). *Revising.* | [Slides](pdf/PittsSocialNetworksSlides_20260501.pdf)
 
 **Sweet and Timely Income: The Effect of Honey Production in Reducing Food Insecurity of Coffee Producers** (with Chris M. Boyd, Grant X. Storer, and Jesse Anttila-Hughes). [PDF](pdf/ChiapasHoneyPaper_20240718.pdf)
 
@@ -72,6 +72,6 @@ You can read an [ungated version](pdf/PittsAppliedEconReview.pdf).
 
 ## Upcoming talks
 
-* [AAEA Annual Meeting](https://www.aaea.org/meetings/2026-aaea-annual-meeting) in Kansas City, July 26-28, 2026, presenting "The Role of Social Networks in Post-Displacement Outcomes" and "Information Decay and Cooperative Entry Under Risk"
-* [Universidad del Pacífico Department of Economics](https://www.up.edu.pe/en/degrees-graduate-studies-languages/academic-departments/economics/Paginas/default.aspx) (Lima) on August 25, 2026, presenting "The Role of Social Networks in Post-Displacement Outcomes"
+* [Universidad del Pacífico Department of Economics](https://www.up.edu.pe/en/degrees-graduate-studies-languages/academic-departments/economics/Paginas/default.aspx) (Lima) on August 25, 2026, presenting "Coworker Networks and Labor Misallocation"
 * [John Carroll University](https://www.jcu.edu/) on September 28, 2026, presenting "What You Know Depends on Who You Know"
+* [University of Minnesota Department of Applied Economics](https://apec.umn.edu/) on October 9, 2026, presenting "Coworker Networks and Labor Misallocation"

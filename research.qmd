@@ -8,7 +8,7 @@ resources:
   - "pdf/PittsSYPSep6.pdf"
   - "pdf/PittsAppliedEconReview.pdf"
   - "pdf/PittsSocialNetworksSlides_20260501.pdf"
-  - "pdf/PittsInformationDecaySlides_20260515.pdf"
+  - "pdf/PittsPartialAdaptationSlides_20260727.pdf"
 ---
 
 My research studies two sets of decisions that shape economic mobility in Latin America: how smallholder farmers engage with agricultural markets, and how workers build pathways into formal-sector employment. This work comes from 20 years of experience working with Latin Americans: in the US, on the US/Mexico border, in southern Mexico, and in northern Peru. It seeks to influence not only the academy but also policy to improve the lives of people across the region.
@@ -21,7 +21,7 @@ One strand of my work examines the market-access, contracting, and information f
 Unpacking Side-Selling: Experimental Evidence from Rural Mexico (with Chris M. Boyd and Grant X. Storer). *Agricultural Economics*, 2025. [Journal version](http://doi.org/10.1111/agec.70051) · [Open-access PDF](pdf/ChiapasExperimentPaper_openaccess.pdf) · [Replication](https://github.com/spittssj/ChiapasExperimentReplication)
 
 ### Working papers
-Information Decay and Cooperative Entry Under Risk (with Grant X. Storer and Jesse Anttila-Hughes). [PDF](pdf/ChiapasNetworkPaper_20260619.pdf) | [Slides](pdf/PittsInformationDecaySlides_20260515.pdf)
+Cooperative Membership as Partial Climate Adaptation: Transitory Withdrawal and Permanent Exit (with Grant X. Storer and Jesse Anttila-Hughes). [PDF](pdf/ChiapasNetworkPaper_20260619.pdf) | [Slides](pdf/PittsPartialAdaptationSlides_20260727.pdf)
 
 Sweet and Timely Income: The Effect of Honey Production in Reducing Food Insecurity of Coffee Producers (with Chris M. Boyd, Grant X. Storer, and Jesse Anttila-Hughes). [PDF](pdf/ChiapasHoneyPaper_20240718.pdf)
 
@@ -35,7 +35,7 @@ Value Chain Integration as an Alternative to Fair Trade for Chiapas Coffee Farme
 A second strand examines the pathways workers take into formal-sector employment. Three mechanisms matter: government subsidies that shape internal migration out of agriculture, worker referrals that mediate entry into formal jobs, and vocational training that builds the socio-emotional skills that formal employers value. I work with harmonized Mexican census data from [IPUMS](https://international.ipums.org/international/) and confidential employer-employee data from the [EconLab](https://www.banxico.org.mx/EconLab/inicio) at the Bank of Mexico, and I am launching a new project in Peru on vocational training schools.
 
 ### Working papers
-The Role of Social Networks in Post-Displacement Outcomes (with Juan Pablo Arrendondo Ambriz and [Lorenzo Aldeco Leo](https://www.lorenzo-aldeco.com/)). *Revising.* | [Slides](pdf/PittsSocialNetworksSlides_20260501.pdf)
+Coworker Networks and Labor Misallocation (with [Lorenzo Aldeco Leo](https://www.lorenzo-aldeco.com/) and Juan Pablo Arredondo Ambriz). *Revising.* | [Slides](pdf/PittsSocialNetworksSlides_20260501.pdf)
 
 Where You Go Depends on Who You Know: Social Networks as Determinants of Mexican Internal Migration. Second year paper. [PDF](pdf/PittsSYPSep6.pdf)
 
