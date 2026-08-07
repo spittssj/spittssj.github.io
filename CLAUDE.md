@@ -29,6 +29,30 @@ Stephen Pitts SJ's personal academic website, built with [Quarto](https://quarto
 
 After any content edit, run `quarto render` to refresh `docs/`, then commit and push to deploy. Most update types follow the same pattern: change the source `.qmd`, render, commit, push.
 
+### Verifying the deploy (do this after every push)
+
+A push does **not** guarantee the site updated. GitHub Pages builds asynchronously,
+and a failed build is silent — Pages just keeps serving the previous build, so the
+live site can sit at an older commit with no visible error. Check the build:
+
+```sh
+gh api repos/spittssj/spittssj.github.io/pages/builds \
+  --jq '.[0:3] | .[] | "\(.status)\t\(.created_at)\t\(.commit[0:7])\t\(.error.message // "")"'
+```
+
+`status` is `building`, `built`, or `errored`; poll until it leaves `building`.
+Confirm the newest row's commit matches what you just pushed. Then spot-check the
+live URL — a 200 on the file you added, and the expected filename in the page HTML:
+
+```sh
+curl -sI https://spittssj.github.io/pdf/<file>.pdf | head -1
+curl -s https://spittssj.github.io/ | grep -o 'pdf/PittsCV_[A-Za-z0-9]*\.pdf' | sort -u
+```
+
+This is not hypothetical: the 2026-08-06 push errored (`Page build failed.`), so a
+new CV never went live while the deleted prior-month PDF stayed linked from the
+stale build — a dead CV link for a day. Re-pushing (any commit) retriggers the build.
+
 ### New slide deck for a paper
 
 1. Recompile in the slides source repo (e.g., `~/Code/MexicoWorkerReferralsSlides`, `~/Code/ChiapasDroughtPaperSlides`). Each of those repos has its own CLAUDE.md with publish-flow instructions.
@@ -67,6 +91,8 @@ there (`latexmk -pdf cv-classic.tex`) to produce `cv-classic.pdf`, then:
 2. Update the `href:` and `resources:` entries in `index.qmd` to point at the new filename.
 3. Delete the prior dated CV from both `pdf/` and `docs/pdf/`.
 4. `quarto render`, then commit and push (push only with the owner's OK).
+5. Verify the deploy landed — see "Verifying the deploy" above. Deleting the prior
+   month's PDF means a failed build leaves a dead CV link on the live site.
 
 ### New media coverage
 
