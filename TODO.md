@@ -9,7 +9,7 @@ Outstanding improvements to the website. Roughly ordered from quickest wins to l
 
 ## Content additions (as projects develop)
 
-- **Replication packages for working papers** as each is ready to publish. Mirror the Side-Selling pattern (live at https://github.com/spittssj/ChiapasExperimentReplication): create a public GitHub repo, then add `[Replication](<repo url>)` to the paper entry on both `index.qmd` and `research.qmd`. Candidates: Information Decay, Sweet and Timely Income (honey), Role of Social Networks, Where You Go (SYP).
+- **Replication packages for working papers** as each is ready to publish. Mirror the Side-Selling pattern (live at https://github.com/spittssj/ChiapasExperimentReplication): create a public GitHub repo, then add `[Replication](<repo url>)` to the paper entry on both `index.qmd` and `research.qmd`. Candidates: Partial Climate Adaptation (formerly Information Decay), Sweet and Timely Income (honey), Coworker Networks (formerly Role of Social Networks), Where You Go (SYP).
 - **Pre-analysis plan links** if any RCTs or experiments get registered (e.g., AEA RCT Registry). Add as `[PAP]` next to the paper entry.
 - **Peru section in `community.qmd`** once the Fe y Alegría Perú vocational training project develops further. Mirror the chronological structure used for Tijuana, El Paso, and Chiapas (institution + photos + activities).
 
