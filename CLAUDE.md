@@ -40,9 +40,20 @@ gh api repos/spittssj/spittssj.github.io/pages/builds \
   --jq '.[0:3] | .[] | "\(.status)\t\(.created_at)\t\(.commit[0:7])\t\(.error.message // "")"'
 ```
 
-`status` is `building`, `built`, or `errored`; poll until it leaves `building`.
-Confirm the newest row's commit matches what you just pushed. Then spot-check the
-live URL — a 200 on the file you added, and the expected filename in the page HTML:
+`status` is `building`, `built`, or `errored`. Two traps when polling:
+
+- **Don't poll immediately.** For a few seconds after a push the top row is still
+  the *previous* build, already `built` — a naive "wait until not `building`" loop
+  exits instantly and reports the old build as success. Wait for a row whose
+  `created_at` is later than your push, then poll it out of `building`.
+- **The `commit` field tracks `docs/`, not HEAD.** A commit that touches only
+  source-tree files (`CLAUDE.md`, `TODO.md`, a `.qmd` you haven't rendered) still
+  triggers a build, but that build is labelled with the last commit that changed
+  the publishing source. So the newest row's SHA matching HEAD confirms a deploy;
+  *not* matching is only a problem if your push actually changed `docs/`.
+
+Then spot-check the live URL — a 200 on the file you added, and the expected
+filename in the page HTML:
 
 ```sh
 curl -sI https://spittssj.github.io/pdf/<file>.pdf | head -1
