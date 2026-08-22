@@ -9,20 +9,45 @@ primero, y sirve de ejemplo de qué hay que averiguar antes de un viernes.
 
 ## Los tiempos
 
-Relativos al inicio; el taller ocupa media mañana. Cada bloque indica **qué se
-cae primero** si el tiempo aprieta.
+🔴 **Corregido tras Trujillo (2026-08-21): el contenido cabe en ~90 minutos, no
+en 140.** Los bloques corrieron **bastante más rápido** de lo previsto y el
+descanso se movió al final. La tabla de abajo son los tiempos revisados; la
+columna de la derecha sigue diciendo **qué se cae primero**, porque una sala más
+lenta sí puede necesitarlo.
+
+⭐ **Lo que compra el margen:** sobran unos veinte minutos sobre una media mañana
+típica. **No hay que rellenarlos** — sirven para circular mesa por mesa, para
+que los puntos de control se cumplan de verdad y para que el bloque *Ahora
+ustedes* no salga corriendo. Si la sala va rápida otra vez, el descanso al final
+funciona.
 
 | Min | Bloque | Si falta tiempo |
 |---|---|---|
-| 0–10 | Bienvenida, el flujo completo, **cómo funciona la mañana** | No se toca: es donde se explica que la encuesta es una sola y compartida |
-| 10–35 | **1. Recorrer la encuesta** en el proyector y **agregarle 1–2 preguntas** que dicte la sala; redesplegar | Saltarse las preguntas nuevas y sólo recorrer el formulario — pero entonces la apertura no debe prometerlas |
-| 35–50 | **2. Recolectar** — todos responden desde su celular | No se toca: es el corazón del taller |
-| 50–60 | **3. Descargar** el CSV | Se puede hacer en 3 minutos |
-| 60–75 | *Descanso* — opcionales: **crear su cuenta** de Kobo, **instalar R/RStudio** en la laptop propia | Acortar a 10; ambos se pueden hacer después con la guía |
-| 75–105 | **4. Analizar** en RStudio | Reducir a `read.csv`, `summary`, `table`, `mean` |
-| 105–120 | **5. Gráficas** | Dejar solo `barplot` |
-| 120–130 | **Ahora ustedes**: clonar el formulario y cambiarle dos preguntas | Es lo primero que se cae — el análisis ya está hecho y los pasos están en la guía |
-| 130–140 | Entrega del cuestionario de institutos + **encuesta de salida** + preguntas | La encuesta de salida no se toca: es la única lectura escrita que queda del taller |
+| 0–8 | Bienvenida, el flujo completo, **cómo funciona la mañana** | No se toca: es donde se explica que la encuesta es una sola y compartida |
+| 8–28 | **1. Recorrer la encuesta** en el proyector y **agregarle 1–2 preguntas** que dicte la sala; redesplegar. Incluye **antes de encuestar a sus estudiantes** | Saltarse las preguntas nuevas y sólo recorrer el formulario — pero entonces la apertura no debe prometerlas. **Lo del permiso no se cae** |
+| 28–40 | **2. Recolectar** — todos responden desde su celular | No se toca: es el corazón del taller |
+| 40–48 | **3. Descargar** el CSV | Se puede hacer en 3 minutos |
+| 48–70 | **4. Analizar** en RStudio · 🛑 punto de control tras `nrow(datos)` | Reducir a `read.csv`, `summary`, `table`, `mean` |
+| 70–82 | **5. Gráficas** · 🛑 punto de control tras la primera · **cómo se cuenta un hallazgo** | Dejar solo `barplot`, y decir lo del hallazgo en voz alta sin proyectarlo |
+| 82–92 | **Ahora ustedes**: clonar el formulario y cambiarle dos preguntas | Es lo primero que se cae — el análisis ya está hecho y los pasos están en la guía |
+| 92–100 | Entrega del cuestionario de institutos + **encuesta de salida** + preguntas | La encuesta de salida no se toca: es la única lectura escrita que queda del taller |
+| al final | *Descanso* | — |
+
+### El descanso, y por qué en Trujillo terminó al final
+
+Estaba a mitad de mañana **por una razón concreta**: era el lugar donde aparcar
+las dos cosas opcionales que bloquean si se hacen en grupo — **crear la cuenta**
+de Kobo (pide confirmación por correo) e **instalar R/RStudio** en la laptop
+propia.
+
+En Trujillo **no hizo falta**: como muchos trajeron su computadora y los bloques
+iban rápidos, esas dos cosas se hicieron en los huecos naturales, mientras otros
+terminaban. ⇒ **el descanso se movió al final y nadie lo echó de menos.**
+
+⚠️ **Pero la razón sigue siendo válida.** Si en un sitio la sala va justa, o si
+casi nadie trae laptop y la creación de cuentas se vuelve un cuello de botella,
+**el descanso a mitad recupera su sentido.** Es una decisión que se toma en la
+sala, no de antemano.
 
 ## Una encuesta compartida, no veinte
 
