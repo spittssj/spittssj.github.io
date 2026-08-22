@@ -1,7 +1,9 @@
 project:
   type: website
   output-dir: docs
-  resources: pdf/*.pdf
+  resources:
+    - pdf/*.pdf
+    - taller/*
   render:
     - "*.qmd"
 
@@ -17,6 +19,8 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
+      - href: workshops.qmd
+        text: Workshops
       - href: datasets.qmd
         text: Datasets
       - href: community.qmd

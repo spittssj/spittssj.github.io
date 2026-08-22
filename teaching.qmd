@@ -15,6 +15,9 @@ resources:
 I have taught math to high school students at [Jesuit College Prep of Dallas](http://www.jesuitdallas.org), economics to undergraduates and graduate students at the [University of Minnesota](https://twin-cities.umn.edu/) and [Marquette University](http://www.marquette.edu), and interdisciplinary seminars at USF's [St. Ignatius Institute](https://www.usfca.edu/st-ignatius).
 [Teaching Statement](pdf/pittsteachingstatement.pdf)
 
+I also run short practical [workshops](workshops.qmd) for teachers and
+practitioners, with all the materials released under CC BY-SA.
+
 ### Visiting Assistant Professor (2025-26), Department of Economics, Marquette University
 
 ECON 1103: Principles of Microeconomics - Fall 2025, Spring 2026, Fall 2026 - [Spring 2026 syllabus](pdf/syllabus/PittsEcon1103_Spring2026.pdf)\

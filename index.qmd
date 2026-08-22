@@ -70,6 +70,17 @@ As a Jesuit priest-economist, I have recently been featured in Jesuit and Cathol
 Also, a book review of mine of [Research Ethics in Applied Economics](https://www.routledge.com/Research-Ethics-in-Applied-Economics-A-Practical-Guide/Josephson-Michler/p/book/9780367457419) was just published in [Faith & Economics 83](https://christianeconomists.org/faith-economics/articles/).
 You can read an [ungated version](pdf/PittsAppliedEconReview.pdf).
 
+## Recent workshops
+
+**Quantitative research with free software** — Trujillo, Peru, August 21, 2026.
+A half-morning workshop for teachers at technical institutes (*institutos de
+educación superior tecnológica*) of [Fe y Alegría Perú](https://feyalegria.org.pe/)
+and neighboring public institutions. Participants built a survey in KoboToolbox,
+answered it from their own phones, and analyzed the results in base R — the whole
+cycle, once, with data they generated themselves. The
+[slides, handouts, R script and facilitator's playbook](workshops.html) are
+available in Spanish under CC BY-SA, so that others can run it without me.
+
 ## Upcoming talks
 
 * [Universidad del Pacífico Department of Economics](https://www.up.edu.pe/en/degrees-graduate-studies-languages/academic-departments/economics/Paginas/default.aspx) (Lima) on August 25, 2026, presenting "Coworker Networks and Labor Misallocation"

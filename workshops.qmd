@@ -1,0 +1,22 @@
+---
+title: "Workshops"
+---
+
+Short, practical workshops for people who want to use quantitative methods in
+their own institutions — taught in Spanish, built around free software, and
+released so that others can run them without me.
+
+---
+
+### Quantitative research with free software
+
+**Half a morning · Spanish · [materials and facilitator's playbook](workshop-kobo-r.qmd)**
+
+Participants build a survey in KoboToolbox, answer it from their own phones,
+download the responses, and analyse and plot them in base R — the whole cycle,
+once, with data they generated themselves. Designed for a computer lab with
+weak internet and no budget: nothing to license, nothing to install beyond R,
+and no add-on packages.
+
+*Editions:* Trujillo, Peru — August 2026, with faculty of Fe y Alegría and
+neighbouring public technical institutes.
