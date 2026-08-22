@@ -15,6 +15,11 @@ Stephen Pitts SJ's personal academic website, built with [Quarto](https://quarto
 ## Architecture / things that bite
 
 - **`_quarto.yml`** defines the site: `type: website`, `output-dir: docs`. GitHub Pages serves from `docs/`, so the built HTML **must be committed** alongside source `.qmd` edits. The navbar is also defined here — adding a new top-level page means editing `_quarto.yml`.
+- **`taller/` holds the workshop bundle**, and it is the one place where non-PDF
+  assets are published (`.R`, `.csv`, `.xlsx`, `.md`, a self-contained `.html`).
+  It works because `_quarto.yml` globs the whole directory at project level:
+  `resources: [pdf/*.pdf, taller/*]`. **Do not hand-edit anything in `taller/`** —
+  it is generated (see "Updating the workshop materials" below).
 - **PDFs in `pdf/` are not auto-copied.** Quarto only copies a PDF into `docs/pdf/` if it is listed under `resources:` in the front matter of a `.qmd` that links to it (or globbed via `resources: pdf/*.pdf` at the project level in `_quarto.yml`). Recent commits ("Broken link to resume", "Fix link to OSV article") were fixes for PDFs linked from a page whose front matter didn't declare them. When adding a PDF link, add the PDF to the `resources:` list of that page's front matter.
 - The front-matter pattern on `index.qmd` shows the convention: every PDF linked in the page body is repeated under `resources:`.
 - `_site/` and `.quarto/` are Quarto caches — ignore them; `docs/` is the real build output.
@@ -63,6 +68,39 @@ curl -s https://spittssj.github.io/ | grep -o 'pdf/PittsCV_[A-Za-z0-9]*\.pdf' | 
 This is not hypothetical: the 2026-08-06 push errored (`Page build failed.`), so a
 new CV never went live while the deleted prior-month PDF stayed linked from the
 stale build — a dead CV link for a day. Re-pushing (any commit) retriggers the build.
+
+### Updating the workshop materials
+
+The Spanish workshop published at `workshop-kobo-r.qmd` is **built in a different
+repo** — `~/Code/StatsWorkshop`, which has its own CLAUDE.md. Nothing in `taller/`
+is authored here; it is assembled there and copied in.
+
+```sh
+cd ~/Code/StatsWorkshop && ./publico/armar.sh     # → publico/paquete/
+cp publico/paquete/* ~/Code/spittssj.github.io/taller/
+cd ~/Code/spittssj.github.io && quarto render
+```
+
+`armar.sh` runs a leak check (`publico/comprobar_fuga.py`) over the **visible
+text** of every file, PDFs included, and refuses to pass if a real institute
+name, a personal name, a Kobo form URL or study material appears. Three
+de-identifications happen during assembly and matter:
+
+- the slide HTML is built `--sin-notas`, because **reveal.js embeds speaker
+  notes in the file** and they discuss the workshop's own failures;
+- the printed guide is recompiled with a placeholder in place of the real Kobo
+  project URL;
+- the sample survey ships an invented institute list, not the real regional
+  directory.
+
+⚠️ `formulario_ejemplo.xlsx` shows as modified after every rebuild even when the
+sheet contents are identical — xlsx zips carry timestamps. Harmless.
+
+**Placement rationale (decided 2026-08-22):** the workshop lives under
+**Workshops** (top-level) and is linked from **Teaching**. It is deliberately
+*not* on **Datasets** — that page is a research-integrity page listing a
+replication package and fieldwork survey data, and a synthetic teaching CSV
+sitting beside them invites a reader to mistake it for research data.
 
 ### New slide deck for a paper
 
