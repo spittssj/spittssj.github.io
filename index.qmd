@@ -83,6 +83,6 @@ available in Spanish under CC BY-SA, so that others can run it without me.
 
 ## Upcoming talks
 
-* [Universidad del Pacífico Department of Economics](https://www.up.edu.pe/en/degrees-graduate-studies-languages/academic-departments/economics/Paginas/default.aspx) (Lima) on August 25, 2026, presenting "Coworker Networks and Labor Misallocation"
 * [John Carroll University](https://www.jcu.edu/) on September 28, 2026, presenting "What You Know Depends on Who You Know"
 * [University of Minnesota Department of Applied Economics](https://apec.umn.edu/) on October 9, 2026, presenting "Coworker Networks and Labor Misallocation"
+* [University of Wisconsin-Milwaukee Applied Micro Workshop](https://uwm.edu/economics/) on October 28, 2026, presenting "Later, Not Lower: Price Rigidity and the Risk Smallholders Bear"
