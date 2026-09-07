@@ -104,8 +104,8 @@ sitting beside them invites a reader to mistake it for research data.
 
 ### New slide deck for a paper
 
-1. Recompile in the slides source repo (e.g., `~/Code/MexicoWorkerReferralsSlides`, `~/Code/ChiapasDroughtPaperSlides`). Each of those repos has its own CLAUDE.md with publish-flow instructions.
-2. Copy `main.pdf` to `pdf/Pitts<PaperShortName>Slides_<YYYYMMDD>.pdf` — date matches the title-page date.
+1. Recompile in the slides source repo (e.g., `~/Code/MexicoWorkerReferralsDraft`, `~/Code/ChiapasDroughtPaperSlides`). Each of those repos has its own CLAUDE.md with publish-flow instructions. **Worker Referrals is the exception to "one repo, one deck"**: since the 2026-09-02 merge its manuscript *and* decks share `~/Code/MexicoWorkerReferralsDraft`, so the deck root is `slides.tex` (full) or `slides_short.tex` (short cut), not `main.tex` — `main.tex` there is the paper.
+2. Copy the built PDF (`main.pdf` in a slides-only repo; `slides.pdf` in the Worker Referrals repo) to `pdf/Pitts<PaperShortName>Slides_<YYYYMMDD>.pdf` — date matches the title-page date.
 3. Delete the prior dated slide file from `pdf/`.
 4. In both `index.qmd` and `research.qmd`, use `replace_all` on the bare filename (old → new). This updates the `resources:` list and the `[Slides](...)` link in one pass per file.
 
