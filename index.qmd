@@ -23,7 +23,7 @@ resources:
     - "pdf/PittsShortTakeHyundaiRaid.pdf"
     - "pdf/ChiapasExperimentPaper_openaccess.pdf"
     - "pdf/ChiapasNetworkPaper_20260619.pdf"
-    - "pdf/ChiapasHoneyPaper_20240718.pdf"
+    - "pdf/ChiapasHoneyPaper_20260914.pdf"
     - "pdf/PittsSYPSep6.pdf"
     - "pdf/PittsAppliedEconReview.pdf"
     - "pdf/PittsSocialNetworksSlides_20260501.pdf"
@@ -54,7 +54,7 @@ My work comes from 20 years of [experience on the US/Mexico border and in Latin 
 
 **Coworker Networks and Labor Misallocation** (with [Lorenzo Aldeco Leo](https://www.lorenzo-aldeco.com/) and Juan Pablo Arredondo Ambriz). *Revising.* | [Slides](pdf/PittsSocialNetworksSlides_20260501.pdf)
 
-**Sweet and Timely Income: The Effect of Honey Production in Reducing Food Insecurity of Coffee Producers** (with Chris M. Boyd, Grant X. Storer, and Jesse Anttila-Hughes). [PDF](pdf/ChiapasHoneyPaper_20240718.pdf)
+**Sweet and Timely Income? Beekeeping and Seasonal Food Insecurity in Chiapas, Mexico** (with Grant X. Storer, Jesse Anttila-Hughes, and Chris M. Boyd). [PDF](pdf/ChiapasHoneyPaper_20260914.pdf)
 
 **Where You Go Depends on Who You Know: Social Networks as Determinants of Mexican Internal Migration**. Second year paper. [PDF](pdf/PittsSYPSep6.pdf)
 
