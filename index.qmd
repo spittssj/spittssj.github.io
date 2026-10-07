@@ -15,9 +15,9 @@ about:
     - text: Email
       href: mailto:stephen.pitts@marquette.edu
     - text: CV
-      href: pdf/PittsCV_Sep2026.pdf
+      href: pdf/PittsCV_Oct2026.pdf
 resources:
-    - "pdf/PittsCV_Sep2026.pdf"
+    - "pdf/PittsCV_Oct2026.pdf"
     - "pdf/pittsteachingstatement.pdf"
     - "pdf/PittsInterviewTrumpTariffs.pdf"
     - "pdf/PittsShortTakeHyundaiRaid.pdf"
@@ -60,11 +60,12 @@ My work comes from 20 years of [experience on the US/Mexico border and in Latin 
 
 ## In the news
 
-As a Jesuit priest-economist, I have recently been featured in Jesuit and Catholic publications:
+As a Jesuit priest-economist, I have recently been featured in Jesuit and Catholic media:
 
-* [Economists express concern about the poor as Supreme Court weighs tariffs](http://www.osvnews.com/economists-express-concern-about-the-poor-as-supreme-court-weighs-trumps-tariffs/). 11/7/25.
-* [The ICE raid on a Hyundai plant shows how hard it would be to quit globalization](https://www.americamagazine.org/short-take/2025/09/17/ice-raid-hyundai-plant-korean-globalization/). 9/17/25. [ungated version](pdf/PittsShortTakeHyundaiRaid.pdf).
-* [Jesuit Special Studies: Charting Paths of Learned Ministry](https://www.jesuitscentralsouthern.org/stories/jesuit-special-studies-charting-paths-of-learned-ministry/). 3/4/2025
+* [Living Water and Coffee Beans: A Conversation about Coffee, Care for Our Common Home, and Global Solidarity](https://americanjesuitsinternational.org/living-water-and-coffee-beans-watch-the-conversation/). 10/1/2026.
+* [Economists express concern about the poor as Supreme Court weighs tariffs](http://www.osvnews.com/economists-express-concern-about-the-poor-as-supreme-court-weighs-trumps-tariffs/). 11/7/2025.
+* [The ICE raid on a Hyundai plant shows how hard it would be to quit globalization](https://www.americamagazine.org/short-take/2025/09/17/ice-raid-hyundai-plant-korean-globalization/). 9/17/2025. [ungated version](pdf/PittsShortTakeHyundaiRaid.pdf).
+* [Jesuit Special Studies: Charting Paths of Learned Ministry](https://www.jesuitscentralsouthern.org/stories/jesuit-special-studies-charting-paths-of-learned-ministry/). 3/4/2025.
 * [Catholic Social Teaching and Trump's Tariffs](https://www.americamagazine.org/politics-society/2025/03/03/trump-tariffs-catholic-social-teaching-250048). 3/3/2025. [ungated version](pdf/PittsInterviewTrumpTariffs.pdf).
 
 Also, a book review of mine of [Research Ethics in Applied Economics](https://www.routledge.com/Research-Ethics-in-Applied-Economics-A-Practical-Guide/Josephson-Michler/p/book/9780367457419) was just published in [Faith & Economics 83](https://christianeconomists.org/faith-economics/articles/).
@@ -83,6 +84,5 @@ available in Spanish under CC BY-SA, so that others can run it without me.
 
 ## Upcoming talks
 
-* [John Carroll University](https://www.jcu.edu/) on September 28, 2026, presenting "What You Know Depends on Who You Know"
 * [University of Minnesota Department of Applied Economics](https://apec.umn.edu/) on October 9, 2026, presenting "Coworker Networks and Labor Misallocation"
 * [University of Wisconsin-Milwaukee Applied Micro Workshop](https://uwm.edu/economics/) on October 28, 2026, presenting "Later, Not Lower: Price Rigidity and the Risk Smallholders Bear"

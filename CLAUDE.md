@@ -148,7 +148,7 @@ there (`latexmk -pdf cv-classic.tex`) to produce `cv-classic.pdf`, then:
 Add a bullet to the "In the news" list in `index.qmd`. Format mirrors existing entries:
 
 ```
-* [Headline](URL). M/D/YY. [optional ungated version](pdf/...).
+* [Headline](URL). M/D/YYYY. [optional ungated version](pdf/...).
 ```
 
 If an ungated PDF is included, drop it into `pdf/` and add it to the `resources:` list.
