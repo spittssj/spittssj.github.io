@@ -124,7 +124,7 @@ Edit the "Upcoming talks" section of `index.qmd`. Format:
 * [Venue Name](URL) on Month Day, YYYY, presenting "Paper Title"
 ```
 
-Remove past entries once they're no longer upcoming. The CV's "Invited Professional Presentations" section is maintained independently — update the DOC source separately and re-export.
+Remove past entries once they're no longer upcoming — but first confirm with the owner that the talk actually happened. The CV (`~/Code/PittsCV`, LaTeX) tracks the same talks: when one is delivered, also drop its `(scheduled)` tag there (in "Invited and Conference Presentations" or "Invited Public Lectures"), and when one is added here, check it's on the CV too.
 
 ### New replication package
 
@@ -152,6 +152,11 @@ Add a bullet to the "In the news" list in `index.qmd`. Format mirrors existing e
 ```
 
 If an ungated PDF is included, drop it into `pdf/` and add it to the `resources:` list.
+
+If the piece is about Capeltic, also add it to the top of the Capeltic article list on
+`community.qmd` (under "Chiapas"), in that list's own format:
+`* [Title - Month YYYY](URL)`. The item also goes on the CV (`~/Code/PittsCV`,
+Public Engagement → Selected Media).
 
 ### Working paper becomes published
 
