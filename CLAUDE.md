@@ -108,6 +108,7 @@ sitting beside them invites a reader to mistake it for research data.
 2. Copy the built PDF (`main.pdf` in a slides-only repo; `slides.pdf` in the Worker Referrals repo) to `pdf/Pitts<PaperShortName>Slides_<YYYYMMDD>.pdf` — date matches the title-page date.
 3. Delete the prior dated slide file from `pdf/`.
 4. In both `index.qmd` and `research.qmd`, use `replace_all` on the bare filename (old → new). This updates the `resources:` list and the `[Slides](...)` link in one pass per file.
+5. **First deck for a paper** (no prior file to replace): add a `resources:` entry and append ` | [Slides](pdf/<file>.pdf)` after the entry's status, as on Coworker Networks. `index.qmd` lists only published papers and working papers, so a research-in-progress deck goes on `research.qmd` alone.
 
 ### New paper draft
 
@@ -208,6 +209,9 @@ Public Engagement → Selected Media).
 2. Remove the corresponding `resources:` entries from both files.
 3. Delete the PDF, slides, and any associated files from `pdf/` (and `pdf/syllabus/` if applicable). Don't forget the matching files in `docs/pdf/`.
 4. If the paper had a replication GitHub repo, decide separately whether to leave it public, archive it, or make it private.
+5. Drop it from the replication-package candidates in `TODO.md` if it's listed there.
+
+⚠️ **`resources:` is indented 4 spaces in `index.qmd` and 2 in `research.qmd`.** Delete those lines by exact whole-line match. A substring replace of the 2-space form also matches inside the 4-space lines, which breaks `index.qmd`'s YAML header (2026-10-12). The render then fails partway through with `Expected YAML front matter to end with '---'` and leaves `docs/` half-deleted. If that happens, run `git checkout -- docs` before re-rendering.
 
 ## Outstanding work
 
