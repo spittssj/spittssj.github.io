@@ -7,7 +7,7 @@ resources:
   - "pdf/PittsSYPSep6.pdf"
   - "pdf/PittsAppliedEconReview.pdf"
   - "pdf/PittsSocialNetworksSlides_20260501.pdf"
-  - "pdf/PittsLaterNotLowerSlides_20261028.pdf"
+  - "pdf/PittsLaterNotLowerSlides_20261118.pdf"
 ---
 
 My research studies two sets of decisions that shape economic mobility in Latin America: how smallholder farmers engage with agricultural markets, and how workers build pathways into formal-sector employment. This work comes from 20 years of experience working with Latin Americans: in the US, on the US/Mexico border, in southern Mexico, and in northern Peru. It seeks to influence not only the academy but also policy to improve the lives of people across the region.
@@ -23,7 +23,7 @@ Unpacking Side-Selling: Experimental Evidence from Rural Mexico (with Chris M. B
 Sweet and Timely Income? Beekeeping and Seasonal Food Insecurity in Chiapas, Mexico (with Grant X. Storer, Jesse Anttila-Hughes, and Chris M. Boyd). *Under review.* | [PDF](pdf/ChiapasHoneyPaper_20260914.pdf)
 
 ### Research in progress
-Later, Not Lower: Price Rigidity and the Risk Smallholders Bear (with [Jesse Anttila-Hughes](https://sites.google.com/site/jesseanttilahughes/)). *Data analysis in progress.* | [Slides](pdf/PittsLaterNotLowerSlides_20261028.pdf)
+Later, Not Lower: Price Rigidity and the Risk Smallholders Bear (with [Jesse Anttila-Hughes](https://sites.google.com/site/jesseanttilahughes/)). *Data analysis in progress.* | [Slides](pdf/PittsLaterNotLowerSlides_20261118.pdf)
 
 ### Book chapters
 The Role of the Farmer and Their Cooperative in Supply Chain Governance: A Latin American Small Producer Perspective. 2023. *[Handbook of Research on Cooperatives and Mutuals](https://www.elgaronline.com/edcollbook/book/9781802202618/9781802202618.xml)* | [Ungated version](pdf/LatinAmericaCooperativesChapter.pdf)

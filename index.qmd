@@ -81,4 +81,4 @@ available in Spanish under CC BY-SA, so that others can run it without me.
 
 ## Upcoming talks
 
-* [University of Wisconsin-Milwaukee Applied Micro Workshop](https://uwm.edu/economics/) on October 28, 2026, presenting "Later, Not Lower: Price Rigidity and the Risk Smallholders Bear"
+* [University of Wisconsin-Milwaukee Applied Micro Workshop](https://uwm.edu/economics/) on November 18, 2026, presenting "Later, Not Lower: Price Rigidity and the Risk Smallholders Bear"
