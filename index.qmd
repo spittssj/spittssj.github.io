@@ -15,9 +15,9 @@ about:
     - text: Email
       href: mailto:stephen.pitts@marquette.edu
     - text: CV
-      href: pdf/PittsCV_Oct2026.pdf
+      href: pdf/PittsCV_Nov2026.pdf
 resources:
-    - "pdf/PittsCV_Oct2026.pdf"
+    - "pdf/PittsCV_Nov2026.pdf"
     - "pdf/pittsteachingstatement.pdf"
     - "pdf/PittsInterviewTrumpTariffs.pdf"
     - "pdf/PittsShortTakeHyundaiRaid.pdf"
@@ -81,4 +81,5 @@ available in Spanish under CC BY-SA, so that others can run it without me.
 
 ## Upcoming talks
 
-* [University of Wisconsin-Milwaukee Applied Micro Workshop](https://uwm.edu/economics/) on November 18, 2026, presenting "Later, Not Lower: Price Rigidity and the Risk Smallholders Bear"
+* [International Food Policy Research Institute (IFPRI)](https://www.ifpri.org/) on February 25, 2027, presenting "Later, Not Lower: Price Rigidity and the Risk Smallholders Bear"
+* [Virginia Tech, Department of Economics](https://econ.vt.edu/) on February 26, 2027
